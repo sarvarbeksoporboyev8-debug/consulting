@@ -1,0 +1,25 @@
+---js
+{
+  pagination: { data: "languages", size: 1, alias: "lang" },
+  permalink: function(data) { return data.lang.code + "/service-marketing-strategy.html"; },
+  layout: "layouts/page.njk",
+  pageCss: "css/service-marketing-strategy.css",
+  navKey: "Services",
+  extraFonts: "&family=Merriweather:wght@700",
+  currentPage: "service-marketing-strategy.html",
+  serviceIdx: 2,
+  eleventyComputed: {
+    title: function(data) { var L = data.lang.code; return (data.serviceDetails[2][L] || data.serviceDetails[2].en).title; },
+    description: function(data) { var L = data.lang.code; return (data.serviceDetails[2][L] || data.serviceDetails[2].en).description; },
+    heroTitle: function(data) { var L = data.lang.code; return (data.serviceDetails[2][L] || data.serviceDetails[2].en).heroTitle; },
+    breadcrumbs: function(data) {
+      var L = data.lang.code;
+      return [
+        { label: (data.ui[L]||data.ui.en).page_services_hero, url: "services.html" },
+        { label: (data.serviceDetails[2][L] || data.serviceDetails[2].en).breadcrumbLabel }
+      ];
+    }
+  }
+}
+---
+{% include "partials/service-detail-content.njk" %}

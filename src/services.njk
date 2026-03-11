@@ -54,7 +54,25 @@
             <h3>{{ t.services_cta }}</h3>
             <a href="/{{ L }}/contact.html#contact-form" class="btn-primary">{{ t.btn_free_consultation }}</a>
           </div>
-          {%- for svc in services[L] | slice(3) %}
+          {%- for svc in services[L] | slice(3, 4) %}
+          <div class="service-card" id="{{ svc.id }}">
+            <h3>{{ svc.title }}</h3>
+            <p>{{ svc.description }}</p>
+            <a href="/{{ L }}/{{ svc.link }}" class="btn-link">{{ t.btn_learn_more }}<span class="sr-only"> {{ svc.title }}</span></a>
+          </div>
+          {%- endfor %}
+        </div>
+        <div class="services-grid">
+          {%- for svc in services[L] | slice(4, 7) %}
+          <div class="service-card" id="{{ svc.id }}">
+            <h3>{{ svc.title }}</h3>
+            <p>{{ svc.description }}</p>
+            <a href="/{{ L }}/{{ svc.link }}" class="btn-link">{{ t.btn_learn_more }}<span class="sr-only"> {{ svc.title }}</span></a>
+          </div>
+          {%- endfor %}
+        </div>
+        <div class="services-grid">
+          {%- for svc in services[L] | slice(7) %}
           <div class="service-card" id="{{ svc.id }}">
             <h3>{{ svc.title }}</h3>
             <p>{{ svc.description }}</p>

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "competitive-analysis",
+    "slug": "service-competitive-analysis",
+    "cssFile": "css/service-competitive-analysis.css",
+    "formPrefix": "sca",
+    "en": {
+      "title": "University Selection - Grant Consulting",
+      "description": "Grant Consulting helps students find the right universities across 12+ countries with personalized matching and admission assessment.",
+      "heroTitle": "University Selection & Matching",
+      "sidebarLabel": "University Selection",
+      "breadcrumbLabel": "University Selection",
+      "paragraphs": [
+        "Choosing the right university is one of the most important decisions in a student's academic journey. At Grant Consulting, we take the time to understand your academic background, career aspirations, and personal preferences to match you with universities that truly fit your profile. With partnerships across more than 12 countries, we open doors to opportunities you might not discover on your own.",
+        "Our experienced consultants evaluate universities based on program quality, global rankings, campus culture, location, and affordability. We compare options across multiple countries — including the United States, United Kingdom, Canada, Germany, South Korea, Malaysia, and beyond — so you can make an informed decision with a clear picture of what each institution offers.",
+        "Every student receives a personalized shortlist of recommended universities along with a detailed admission assessment. We analyze your grades, test scores, and extracurricular achievements to identify where you have the strongest chance of acceptance, and we guide you through every step of the application process to maximize your results."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Personalized matching:",
+          "text": "We evaluate your academic profile, goals, and preferences to recommend universities where you will thrive — not just where you can get in."
+        },
+        {
+          "title": "Country comparison:",
+          "text": "We provide side-by-side comparisons of study destinations across 12+ countries, covering tuition costs, living expenses, work opportunities, and post-graduation pathways."
+        },
+        {
+          "title": "Admission assessment:",
+          "text": "We review your grades, test scores, and achievements to give you an honest evaluation of your admission chances and help you strengthen any weak areas before applying."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Universitet tanlash - Grant Consulting",
+      "description": "Grant Consulting talabalarga 12 dan ortiq mamlakatda to'g'ri universitetni topishda shaxsiy moslashtirish va qabul baholash orqali yordam beradi.",
+      "heroTitle": "Universitet tanlash va moslashtirish",
+      "sidebarLabel": "Universitet tanlash",
+      "breadcrumbLabel": "Universitet tanlash",
+      "paragraphs": [
+        "To'g'ri universitetni tanlash talabaning akademik hayotidagi eng muhim qarorlardan biridir. Grant Consulting'da biz sizning akademik ma'lumotlaringiz, karyera maqsadlaringiz va shaxsiy afzalliklaringizni tushunish uchun vaqt ajratamiz va sizni profilingizga haqiqatan mos keladigan universitetlarga yo'naltiramiz. 12 dan ortiq mamlakatdagi hamkorliklarimiz orqali biz sizga o'zingiz topa olmaydigan imkoniyatlar eshigini ochamiz.",
+        "Tajribali maslahatchilarimiz universitetlarni dastur sifati, global reytinglar, kampus madaniyati, joylashuv va arzonlik asosida baholaydi. Biz bir nechta mamlakatlar bo'yicha variantlarni solishtiramiz — jumladan, Qo'shma Shtatlar, Buyuk Britaniya, Kanada, Germaniya, Janubiy Koreya, Malayziya va boshqalar — shu bilan siz har bir muassasa nima taklif qilishini aniq tushungan holda ongli qaror qabul qilishingiz mumkin.",
+        "Har bir talaba tavsiya etilgan universitetlarning shaxsiy ro'yxatini batafsil qabul baholashi bilan birga oladi. Biz sizning baholaringiz, test natijalaringiz va darsdan tashqari yutuqlaringizni tahlil qilamiz va qabul qilinish ehtimoli eng yuqori bo'lgan joylarni aniqlaymiz, hamda natijalaringizni oshirish uchun ariza jarayonining har bir bosqichida sizga yo'l ko'rsatamiz."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Shaxsiy moslashtirish:",
+          "text": "Biz sizning akademik profilingiz, maqsadlaringiz va afzalliklaringizni baholab, siz rivojlanadigan universitetlarni tavsiya qilamiz — faqat kirish mumkin bo'lgan joylarni emas."
+        },
+        {
+          "title": "Mamlakatlarni solishtirish:",
+          "text": "Biz 12 dan ortiq mamlakatdagi o'qish joylarini yonma-yon solishtirib, o'qish harajatlari, yashash xarajatlari, ish imkoniyatlari va bitiruvdan keyingi yo'llarni qamrab olamiz."
+        },
+        {
+          "title": "Qabul baholash:",
+          "text": "Biz sizning baholaringiz, test natijalaringiz va yutuqlaringizni ko'rib chiqib, qabul imkoniyatlaringizni halol baholaymiz va ariza berishdan oldin har qanday zaif tomonlarni kuchaytirishga yordam beramiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Университет танлаш - Grant Consulting",
+      "description": "Grant Consulting талабаларга 12 дан ортиқ мамлакатда тўғри университетни топишда шахсий мослаштириш ва қабул баҳолаш орқали ёрдам беради.",
+      "heroTitle": "Университет танлаш ва мослаштириш",
+      "sidebarLabel": "Университет танлаш",
+      "breadcrumbLabel": "Университет танлаш",
+      "paragraphs": [
+        "Тўғри университетни танлаш талабанинг академик ҳаётидаги энг муҳим қарорлардан биридир. Grant Consulting'да биз сизнинг академик маълумотларингиз, карьера мақсадларингиз ва шахсий афзалликларингизни тушуниш учун вақт ажратамиз ва сизни профилингизга ҳақиқатан мос келадиган университетларга йўналтирамиз. 12 дан ортиқ мамлакатдаги ҳамкорликларимиз орқали биз сизга ўзингиз топа олмайдиган имкониятлар эшигини очамиз.",
+        "Тажрибали маслаҳатчиларимиз университетларни дастур сифати, глобал рейтинглар, кампус маданияти, жойлашув ва арзонлик асосида баҳолайди. Биз бир нечта мамлакатлар бўйича вариантларни солиштирамиз — жумладан, Қўшма Штатлар, Буюк Британия, Канада, Германия, Жанубий Корея, Малайзия ва бошқалар — шу билан сиз ҳар бир муассаса нима таклиф қилишини аниқ тушунган ҳолда онгли қарор қабул қилишингиз мумкин.",
+        "Ҳар бир талаба тавсия этилган университетларнинг шахсий рўйхатини батафсил қабул баҳолаши билан бирга олади. Биз сизнинг баҳоларингиз, тест натижаларингиз ва дарсдан ташқари ютуқларингизни таҳлил қиламиз ва қабул қилиниш эҳтимоли энг юқори бўлган жойларни аниқлаймиз, ҳамда натижаларингизни ошириш учун ариза жараёнининг ҳар бир босқичида сизга йўл кўрсатамиз."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Шахсий мослаштириш:",
+          "text": "Биз сизнинг академик профилингиз, мақсадларингиз ва афзалликларингизни баҳолаб, сиз ривожланадиган университетларни тавсия қиламиз — фақат кириш мумкин бўлган жойларни эмас."
+        },
+        {
+          "title": "Мамлакатларни солиштириш:",
+          "text": "Биз 12 дан ортиқ мамлакатдаги ўқиш жойларини ёнма-ён солиштириб, ўқиш ҳаражатлари, яшаш ҳаражатлари, иш имкониятлари ва битирувдан кейинги йўлларни қамраб оламиз."
+        },
+        {
+          "title": "Қабул баҳолаш:",
+          "text": "Биз сизнинг баҳоларингиз, тест натижаларингиз ва ютуқларингизни кўриб чиқиб, қабул имкониятларингизни ҳалол баҳолаймиз ва ариза беришдан олдин ҳар қандай заиф томонларни кучайтиришга ёрдам берамиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Подбор университета - Grant Consulting",
+      "description": "Grant Consulting помогает студентам найти подходящие университеты в более чем 12 странах с индивидуальным подбором и оценкой шансов на поступление.",
+      "heroTitle": "Подбор университета",
+      "sidebarLabel": "Подбор университета",
+      "breadcrumbLabel": "Подбор университета",
+      "paragraphs": [
+        "Выбор правильного университета — одно из самых важных решений на академическом пути студента. В Grant Consulting мы уделяем время тому, чтобы понять вашу академическую подготовку, карьерные устремления и личные предпочтения, чтобы подобрать университеты, которые действительно соответствуют вашему профилю. Благодаря партнёрствам в более чем 12 странах мы открываем двери к возможностям, которые вы, возможно, не обнаружили бы самостоятельно.",
+        "Наши опытные консультанты оценивают университеты по качеству программ, мировым рейтингам, культуре кампуса, расположению и доступности. Мы сравниваем варианты в нескольких странах — включая США, Великобританию, Канаду, Германию, Южную Корею, Малайзию и другие — чтобы вы могли принять обоснованное решение с чётким пониманием того, что предлагает каждое учебное заведение.",
+        "Каждый студент получает персональный список рекомендуемых университетов вместе с подробной оценкой шансов на поступление. Мы анализируем ваши оценки, результаты тестов и внеучебные достижения, чтобы определить, где у вас наибольшие шансы на зачисление, и сопровождаем вас на каждом этапе подачи заявки для достижения максимальных результатов."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Индивидуальный подбор:",
+          "text": "Мы оцениваем ваш академический профиль, цели и предпочтения, чтобы рекомендовать университеты, где вы будете развиваться, — а не просто те, куда можно поступить."
+        },
+        {
+          "title": "Сравнение стран:",
+          "text": "Мы предоставляем сравнительный анализ учебных направлений в более чем 12 странах, охватывая стоимость обучения, расходы на проживание, возможности трудоустройства и перспективы после окончания учёбы."
+        },
+        {
+          "title": "Оценка поступления:",
+          "text": "Мы анализируем ваши оценки, результаты тестов и достижения, чтобы дать честную оценку ваших шансов на поступление и помочь укрепить слабые стороны до подачи заявки."
+        }
+      ]
+    }
+  },
+  {
+    "id": "strategic-planning",
+    "slug": "service-strategic-planning",
+    "cssFile": "css/service-strategic-planning.css",
+    "formPrefix": "sp",
+    "en": {
+      "title": "Study Abroad Planning - Grant Consulting",
+      "description": "Plan your academic journey abroad with Grant Consulting — from choosing programs and creating timelines to setting realistic budgets.",
+      "heroTitle": "Study Abroad Planning",
+      "sidebarLabel": "Study Abroad Planning",
+      "breadcrumbLabel": "Study Abroad Planning",
+      "paragraphs": [
+        "Studying abroad is an exciting opportunity, but it requires careful planning to get right. At Grant Consulting, we help students in Tashkent and across Uzbekistan build a clear academic roadmap — from selecting the right program and intake season to preparing all requirements well in advance. A well-structured plan turns what can feel overwhelming into a manageable, step-by-step process.",
+        "Timing is everything when it comes to international applications. We create personalized timelines that account for language test preparation, document collection, application deadlines, and visa processing windows. By mapping out every milestone months ahead, we ensure nothing is rushed and nothing is missed.",
+        "Understanding the financial side of studying abroad is just as important as the academic side. We provide transparent budget guidance covering tuition fees, living costs, insurance, and travel expenses for each destination. Our consultants also identify funding options — including scholarships, grants, and part-time work allowances — so students and their families can plan with confidence."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Academic roadmap:",
+          "text": "We help you choose the right degree program, specialization, and institution based on your long-term career goals and academic strengths."
+        },
+        {
+          "title": "Timeline planning:",
+          "text": "We build a detailed month-by-month schedule covering test preparation, document gathering, application submissions, and visa appointments so you never miss a deadline."
+        },
+        {
+          "title": "Budget guidance:",
+          "text": "We provide a realistic breakdown of all costs — tuition, housing, insurance, and daily expenses — along with strategies to reduce your financial burden through scholarships and part-time work."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Chet elda o'qishni rejalashtirish - Grant Consulting",
+      "description": "Grant Consulting bilan chet eldagi akademik sayohatingizni rejalashtiring — dasturlarni tanlashdan va vaqt jadvallarini tuzishdan tortib real byudjetlarni belgilashgacha.",
+      "heroTitle": "Chet elda o'qishni rejalashtirish",
+      "sidebarLabel": "Chet elda o'qishni rejalashtirish",
+      "breadcrumbLabel": "Chet elda o'qishni rejalashtirish",
+      "paragraphs": [
+        "Chet elda o'qish hayajonli imkoniyat, ammo buni to'g'ri amalga oshirish uchun puxta rejalashtirish talab etiladi. Grant Consulting'da biz Toshkent va butun O'zbekistondagi talabalarga aniq akademik yo'l xaritasini tuzishda yordam beramiz — to'g'ri dastur va qabul mavsumini tanlashdan tortib barcha talablarni oldindan tayyorlashgacha. Yaxshi tuzilgan reja og'ir tuyulishi mumkin bo'lgan narsani boshqariladigan, bosqichma-bosqich jarayonga aylantiradi.",
+        "Xalqaro arizalar haqida gap ketganda vaqt hamma narsani hal qiladi. Biz til imtihoniga tayyorgarlik, hujjatlarni yig'ish, ariza topshirish muddatlari va viza ko'rib chiqish oynalarini hisobga oladigan shaxsiy vaqt jadvallari tuzamiz. Har bir muhim bosqichni bir necha oy oldin belgilab, biz hech narsa shoshilinch bo'lmasligini va hech narsa o'tkazib yuborilmasligini ta'minlaymiz.",
+        "Chet elda o'qishning moliyaviy tomonini tushunish akademik tomon kabi muhimdir. Biz har bir yo'nalish uchun o'quv to'lovlari, yashash xarajatlari, sug'urta va sayohat xarajatlarini qamrab oluvchi shaffof byudjet yo'riqnomasini taqdim etamiz. Maslahatchilarimiz moliyalashtirish variantlarini ham aniqlaydi — jumladan, stipendiyalar, grantlar va yarim kunlik ish imtiyozlari — shu bilan talabalar va ularning oilalari ishonch bilan reja tuza oladi."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Akademik yo'l xaritasi:",
+          "text": "Biz sizga uzoq muddatli karyera maqsadlaringiz va akademik kuchli tomonlaringiz asosida to'g'ri daraja dasturi, ixtisoslik va muassasani tanlashda yordam beramiz."
+        },
+        {
+          "title": "Vaqt jadvalini rejalashtirish:",
+          "text": "Biz imtihonga tayyorgarlik, hujjatlarni yig'ish, arizalarni topshirish va viza uchrashuvlarini qamrab oluvchi batafsil oyma-oy jadval tuzamiz, shu bilan siz hech qachon muddatni o'tkazib yubormaysiz."
+        },
+        {
+          "title": "Byudjet yo'riqnomasi:",
+          "text": "Biz barcha xarajatlarning real taqsimotini taqdim etamiz — o'quv to'lovi, turar joy, sug'urta va kundalik xarajatlar — shuningdek, stipendiyalar va yarim kunlik ish orqali moliyaviy yukingizni kamaytirish strategiyalari."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Чет элда ўқишни режалаштириш - Grant Consulting",
+      "description": "Grant Consulting билан чет элдаги академик саёҳатингизни режалаштиринг — дастурларни танлашдан ва вақт жадвалларини тузишдан тортиб реал бюджетларни белгилашгача.",
+      "heroTitle": "Чет элда ўқишни режалаштириш",
+      "sidebarLabel": "Чет элда ўқишни режалаштириш",
+      "breadcrumbLabel": "Чет элда ўқишни режалаштириш",
+      "paragraphs": [
+        "Чет элда ўқиш ҳаяжонли имконият, аммо буни тўғри амалга ошириш учун пухта режалаштириш талаб этилади. Grant Consulting'да биз Тошкент ва бутун Ўзбекистондаги талабаларга аниқ академик йўл харитасини тузишда ёрдам берамиз — тўғри дастур ва қабул мавсумини танлашдан тортиб барча талабларни олдиндан тайёрлашгача. Яхши тузилган режа оғир туюлиши мумкин бўлган нарсани бошқариладиган, босқичма-босқич жараёнга айлантиради.",
+        "Халқаро аризалар ҳақида гап кетганда вақт ҳамма нарсани ҳал қилади. Биз тил имтиҳонига тайёргарлик, ҳужжатларни йиғиш, ариза топшириш муддатлари ва виза кўриб чиқиш ойналарини ҳисобга оладиган шахсий вақт жадваллари тузамиз. Ҳар бир муҳим босқични бир неча ой олдин белгилаб, биз ҳеч нарса шошилинч бўлмаслигини ва ҳеч нарса ўтказиб юборилмаслигини таъминлаймиз.",
+        "Чет элда ўқишнинг молиявий томонини тушуниш академик томон каби муҳимдир. Биз ҳар бир йўналиш учун ўқув тўловлари, яшаш ҳаражатлари, суғурта ва саёҳат ҳаражатларини қамраб олувчи шаффоф бюджет йўриқномасини тақдим этамиз. Маслаҳатчиларимиз молиялаштириш вариантларини ҳам аниқлайди — жумладан, стипендиялар, грантлар ва ярим кунлик иш имтиёзлари — шу билан талабалар ва уларнинг оилалари ишонч билан режа туза олади."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Академик йўл харитаси:",
+          "text": "Биз сизга узоқ муддатли карьера мақсадларингиз ва академик кучли томонларингиз асосида тўғри даража дастури, ихтисослик ва муассасани танлашда ёрдам берамиз."
+        },
+        {
+          "title": "Вақт жадвалини режалаштириш:",
+          "text": "Биз имтиҳонга тайёргарлик, ҳужжатларни йиғиш, аризаларни топшириш ва виза учрашувларини қамраб олувчи батафсил ойма-ой жадвал тузамиз, шу билан сиз ҳеч қачон муддатни ўтказиб юбормайсиз."
+        },
+        {
+          "title": "Бюджет йўриқномаси:",
+          "text": "Биз барча ҳаражатларнинг реал тақсимотини тақдим этамиз — ўқув тўлови, турар жой, суғурта ва кундалик ҳаражатлар — шунингдек, стипендиялар ва ярим кунлик иш орқали молиявий юкингизни камайтириш стратегиялари."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Планирование обучения за рубежом - Grant Consulting",
+      "description": "Спланируйте своё академическое путешествие за рубеж с Grant Consulting — от выбора программ и составления графиков до определения реалистичного бюджета.",
+      "heroTitle": "Планирование обучения за рубежом",
+      "sidebarLabel": "Планирование обучения за рубежом",
+      "breadcrumbLabel": "Планирование обучения за рубежом",
+      "paragraphs": [
+        "Обучение за рубежом — это захватывающая возможность, но для её успешной реализации необходимо тщательное планирование. В Grant Consulting мы помогаем студентам в Ташкенте и по всему Узбекистану составить чёткую академическую дорожную карту — от выбора подходящей программы и сезона набора до заблаговременной подготовки всех необходимых документов. Хорошо структурированный план превращает то, что может казаться непосильным, в управляемый пошаговый процесс.",
+        "Когда речь идёт о международных заявках, время решает всё. Мы создаём индивидуальные графики, учитывающие подготовку к языковым тестам, сбор документов, сроки подачи заявок и окна обработки виз. Планируя каждый этап за несколько месяцев вперёд, мы гарантируем, что ничто не будет сделано в спешке и ничто не будет упущено.",
+        "Понимание финансовой стороны обучения за рубежом так же важно, как и академическая составляющая. Мы предоставляем прозрачные бюджетные рекомендации, охватывающие стоимость обучения, расходы на проживание, страхование и транспортные расходы для каждого направления. Наши консультанты также определяют варианты финансирования — включая стипендии, гранты и возможности подработки — чтобы студенты и их семьи могли планировать с уверенностью."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Академическая дорожная карта:",
+          "text": "Мы помогаем вам выбрать правильную программу обучения, специализацию и учебное заведение, исходя из ваших долгосрочных карьерных целей и академических сильных сторон."
+        },
+        {
+          "title": "Планирование графика:",
+          "text": "Мы составляем подробный помесячный график, охватывающий подготовку к тестам, сбор документов, подачу заявок и визовые встречи, чтобы вы никогда не пропустили ни одного дедлайна."
+        },
+        {
+          "title": "Бюджетные рекомендации:",
+          "text": "Мы предоставляем реалистичную разбивку всех расходов — обучение, жильё, страхование и повседневные траты — а также стратегии снижения финансовой нагрузки с помощью стипендий и подработки."
+        }
+      ]
+    }
+  },
+  {
+    "id": "marketing-strategy",
+    "slug": "service-marketing-strategy",
+    "cssFile": "css/service-marketing-strategy.css",
+    "formPrefix": "ms",
+    "en": {
+      "title": "Scholarships & Grants - Grant Consulting",
+      "description": "Find and win scholarships and grants with Grant Consulting's expert search, application strategy, and essay coaching services.",
+      "heroTitle": "Scholarships & Grants",
+      "sidebarLabel": "Scholarships & Grants",
+      "breadcrumbLabel": "Scholarships & Grants",
+      "paragraphs": [
+        "Financing an international education does not have to mean taking on overwhelming debt. Grant Consulting maintains an up-to-date database of scholarships, grants, and financial aid programs offered by universities, governments, and private organizations around the world. We match each student with the funding opportunities that best align with their academic profile, chosen field of study, and destination country.",
+        "Applying for scholarships is competitive, and the difference between winning and losing often comes down to how well the application is prepared. Our consultants guide you through every stage of the process — from identifying the most realistic opportunities to crafting a compelling application strategy that highlights your strengths and sets you apart from other candidates.",
+        "A strong personal statement or motivation essay can make or break a scholarship application. We provide one-on-one essay coaching to help you tell your story in a way that resonates with selection committees. Our team reviews multiple drafts, offers honest feedback, and helps you refine your writing until it clearly communicates your goals, achievements, and potential."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Scholarship search:",
+          "text": "We identify scholarship and grant opportunities tailored to your profile, covering merit-based awards, need-based aid, government programs, and university-specific funding."
+        },
+        {
+          "title": "Application strategy:",
+          "text": "We help you prioritize the opportunities where you have the strongest chance of success and build a submission plan that meets every deadline and requirement."
+        },
+        {
+          "title": "Essay coaching:",
+          "text": "We work with you one-on-one to develop personal statements and motivation letters that clearly communicate your story, ambitions, and what makes you a standout candidate."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Stipendiyalar va grantlar - Grant Consulting",
+      "description": "Grant Consulting'ning ekspert qidiruvi, ariza strategiyasi va esse koучинг xizmatlari bilan stipendiyalar va grantlarni toping va yutib oling.",
+      "heroTitle": "Stipendiyalar va grantlar",
+      "sidebarLabel": "Stipendiyalar va grantlar",
+      "breadcrumbLabel": "Stipendiyalar va grantlar",
+      "paragraphs": [
+        "Xalqaro ta'limni moliyalashtirish ortiqcha qarz olishni anglatmasligi kerak. Grant Consulting dunyo bo'ylab universitetlar, hukumatlar va xususiy tashkilotlar tomonidan taklif etiladigan stipendiyalar, grantlar va moliyaviy yordam dasturlarining yangilangan ma'lumotlar bazasini yuritadi. Biz har bir talabani akademik profili, tanlangan o'quv sohasi va maqsad mamlakatiga eng mos keladigan moliyalashtirish imkoniyatlari bilan moslashtiramiz.",
+        "Stipendiya uchun ariza berish raqobatli va yutish yoki yutqazish o'rtasidagi farq ko'pincha arizaning qanchalik yaxshi tayyorlanganiga bog'liq. Maslahatchilarimiz sizni jarayonning har bir bosqichida yo'naltiradi — eng real imkoniyatlarni aniqlashdan tortib, kuchli tomonlaringizni ta'kidlaydigan va sizni boshqa nomzodlardan ajratib turadigan ishonchli ariza strategiyasini ishlab chiqishgacha.",
+        "Kuchli shaxsiy bayonot yoki motivatsion esse stipendiya arizasini muvaffaqiyatli yoki muvaffaqiyatsiz qilishi mumkin. Biz sizning hikoyangizni tanlash qo'mitalariga ta'sir qiladigan tarzda aytib berishingizga yordam berish uchun yakka tartibda esse kouching xizmatini taqdim etamiz. Jamoamiz bir nechta qoralamalarni ko'rib chiqadi, halol fikr-mulohaza bildiradi va yozuvingizni maqsadlaringiz, yutuqlaringiz va salohiyatingizni aniq ifodalagunga qadar takomillashtirishga yordam beradi."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Stipendiya qidirish:",
+          "text": "Biz sizning profilingizga moslashtirilgan stipendiya va grant imkoniyatlarini aniqlaymiz — yutuqlarga asoslangan mukofotlar, ehtiyojga asoslangan yordam, hukumat dasturlari va universitetga xos moliyalashtirish."
+        },
+        {
+          "title": "Ariza strategiyasi:",
+          "text": "Biz sizga muvaffaqiyat ehtimoli eng yuqori bo'lgan imkoniyatlarni ustuvorlashtirish va har bir muddat va talabga javob beradigan topshirish rejasini tuzishda yordam beramiz."
+        },
+        {
+          "title": "Esse kouching:",
+          "text": "Biz siz bilan yakka tartibda ishlaymiz va hikoyangiz, ambitsiyalaringiz va sizni ajoyib nomzod qiladigan narsalarni aniq ifodalovchi shaxsiy bayonotlar va motivatsion xatlar tayyorlashga yordam beramiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Стипендиялар ва грантлар - Grant Consulting",
+      "description": "Grant Consulting'нинг эксперт қидируви, ариза стратегияси ва эссе коучинг хизматлари билан стипендиялар ва грантларни топинг ва ютиб олинг.",
+      "heroTitle": "Стипендиялар ва грантлар",
+      "sidebarLabel": "Стипендиялар ва грантлар",
+      "breadcrumbLabel": "Стипендиялар ва грантлар",
+      "paragraphs": [
+        "Халқаро таълимни молиялаштириш ортиқча қарз олишни англатмаслиги керак. Grant Consulting дунё бўйлаб университетлар, ҳукуматлар ва хусусий ташкилотлар томонидан таклиф этиладиган стипендиялар, грантлар ва молиявий ёрдам дастурларининг янгиланган маълумотлар базасини юритади. Биз ҳар бир талабани академик профили, танланган ўқув соҳаси ва мақсад мамлакатига энг мос келадиган молиялаштириш имкониятлари билан мослаштирамиз.",
+        "Стипендия учун ариза бериш рақобатли ва ютиш ёки ютқазиш ўртасидаги фарқ кўпинча аризанинг қанчалик яхши тайёрланганига боғлиқ. Маслаҳатчиларимиз сизни жараённинг ҳар бир босқичида йўналтиради — энг реал имкониятларни аниқлашдан тортиб, кучли томонларингизни таъкидлайдиган ва сизни бошқа номзодлардан ажратиб турадиган ишончли ариза стратегиясини ишлаб чиқишгача.",
+        "Кучли шахсий баёнот ёки мотивацион эссе стипендия аризасини муваффақиятли ёки муваффақиятсиз қилиши мумкин. Биз сизнинг ҳикоянгизни танлаш қўмиталарига таъсир қиладиган тарзда айтиб беришингизга ёрдам бериш учун якка тартибда эссе коучинг хизматини тақдим этамиз. Жамоамиз бир нечта қораламаларни кўриб чиқади, ҳалол фикр-мулоҳаза билдиради ва ёзувингизни мақсадларингиз, ютуқларингиз ва салоҳиятингизни аниқ ифодалагунга қадар такомиллаштиришга ёрдам беради."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Стипендия қидириш:",
+          "text": "Биз сизнинг профилингизга мослаштирилган стипендия ва грант имкониятларини аниқлаймиз — ютуқларга асосланган мукофотлар, эҳтиёжга асосланган ёрдам, ҳукумат дастурлари ва университетга хос молиялаштириш."
+        },
+        {
+          "title": "Ариза стратегияси:",
+          "text": "Биз сизга муваффақият эҳтимоли энг юқори бўлган имкониятларни устуворлаштириш ва ҳар бир муддат ва талабга жавоб берадиган топшириш режасини тузишда ёрдам берамиз."
+        },
+        {
+          "title": "Эссе коучинг:",
+          "text": "Биз сиз билан якка тартибда ишлаймиз ва ҳикоянгиз, амбицияларингиз ва сизни ажойиб номзод қиладиган нарсаларни аниқ ифодаловчи шахсий баёнотлар ва мотивацион хатлар тайёрлашга ёрдам берамиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Стипендии и гранты - Grant Consulting",
+      "description": "Находите и выигрывайте стипендии и гранты с помощью экспертного поиска, стратегии подачи заявок и подготовки эссе от Grant Consulting.",
+      "heroTitle": "Стипендии и гранты",
+      "sidebarLabel": "Стипендии и гранты",
+      "breadcrumbLabel": "Стипендии и гранты",
+      "paragraphs": [
+        "Финансирование международного образования не обязательно означает непосильные долги. Grant Consulting ведёт актуальную базу данных стипендий, грантов и программ финансовой помощи, предлагаемых университетами, правительствами и частными организациями по всему миру. Мы подбираем для каждого студента возможности финансирования, которые наилучшим образом соответствуют его академическому профилю, выбранной области обучения и стране назначения.",
+        "Подача заявок на стипендии — процесс конкурентный, и разница между победой и поражением часто определяется качеством подготовки заявки. Наши консультанты сопровождают вас на каждом этапе — от определения наиболее реалистичных возможностей до разработки убедительной стратегии подачи заявки, которая подчёркивает ваши сильные стороны и выделяет вас среди других кандидатов.",
+        "Сильное личное заявление или мотивационное эссе может решить судьбу заявки на стипендию. Мы предоставляем индивидуальные консультации по написанию эссе, чтобы помочь вам рассказать свою историю так, чтобы она нашла отклик у отборочных комиссий. Наша команда рецензирует несколько черновиков, даёт честную обратную связь и помогает совершенствовать текст до тех пор, пока он чётко не передаст ваши цели, достижения и потенциал."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Поиск стипендий:",
+          "text": "Мы находим стипендии и гранты, подобранные под ваш профиль, — награды за заслуги, помощь на основе потребностей, государственные программы и финансирование от конкретных университетов."
+        },
+        {
+          "title": "Стратегия подачи заявок:",
+          "text": "Мы помогаем расставить приоритеты среди возможностей, где у вас наибольшие шансы на успех, и составить план подачи, соответствующий всем срокам и требованиям."
+        },
+        {
+          "title": "Подготовка эссе:",
+          "text": "Мы работаем с вами индивидуально над созданием личных заявлений и мотивационных писем, которые чётко передают вашу историю, амбиции и то, что делает вас выдающимся кандидатом."
+        }
+      ]
+    }
+  },
+  {
+    "id": "problem-solving",
+    "slug": "service-problem-solving",
+    "cssFile": "css/service-problem-solving.css",
+    "formPrefix": "ps",
+    "en": {
+      "title": "Visa Support - Grant Consulting",
+      "description": "Complete visa application support from Grant Consulting — document preparation, interview coaching, and application tracking for students.",
+      "heroTitle": "Visa Support",
+      "sidebarLabel": "Visa Support",
+      "breadcrumbLabel": "Visa Support",
+      "paragraphs": [
+        "Obtaining a student visa is often the most stressful part of the study abroad process. Grant Consulting provides complete visa application support, guiding students through the specific requirements of each country's embassy or consulate. Whether you are applying for a US F-1 visa, a UK Tier 4 visa, a Schengen student visa, or any other type, our team ensures your application is thorough, accurate, and submitted on time.",
+        "Document preparation is where most visa applications succeed or fail. We help you compile and organize every required document — acceptance letters, financial statements, bank guarantees, insurance certificates, and sponsorship letters — and review each one to make sure it meets the exact specifications set by the embassy. Our attention to detail significantly reduces the risk of delays or rejections.",
+        "Many student visas require an in-person or online interview at the embassy. We prepare you with mock interview sessions that cover the most commonly asked questions, help you articulate your study plans and intentions clearly, and build your confidence so you can present yourself professionally. After submission, we continue to track your application status and advise you on any follow-up steps required."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Document preparation:",
+          "text": "We compile, organize, and review every document your visa application requires — from financial statements to acceptance letters — ensuring nothing is missing or incorrectly formatted."
+        },
+        {
+          "title": "Interview coaching:",
+          "text": "We conduct realistic mock interviews that prepare you for the questions embassy officers ask, helping you respond with clarity and confidence on the day of your appointment."
+        },
+        {
+          "title": "Application tracking:",
+          "text": "We monitor your visa application status after submission and keep you informed of any updates, additional document requests, or next steps required by the embassy."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Viza qo'llab-quvvatlash - Grant Consulting",
+      "description": "Grant Consulting'dan to'liq viza ariza qo'llab-quvvatlash — hujjatlarni tayyorlash, suhbatga tayyorgarlik va arizani kuzatish xizmatlari talabalar uchun.",
+      "heroTitle": "Viza qo'llab-quvvatlash",
+      "sidebarLabel": "Viza qo'llab-quvvatlash",
+      "breadcrumbLabel": "Viza qo'llab-quvvatlash",
+      "paragraphs": [
+        "Talaba vizasini olish ko'pincha chet elda o'qish jarayonining eng stressli qismi hisoblanadi. Grant Consulting to'liq viza ariza qo'llab-quvvatlashini taqdim etadi, talabalarni har bir davlat elchixonasi yoki konsulligining maxsus talablari bo'yicha yo'naltiradi. Siz AQSh F-1 vizasi, Buyuk Britaniya Tier 4 vizasi, Shengen talaba vizasi yoki boshqa turdagi vizaga murojaat qilayotgan bo'lsangiz, bizning jamoamiz sizning arizangiz puxta, aniq va o'z vaqtida topshirilishini ta'minlaydi.",
+        "Hujjatlarni tayyorlash — bu ko'pchilik viza arizalarining muvaffaqiyati yoki muvaffaqiyatsizligi hal bo'ladigan bosqich. Biz sizga barcha zarur hujjatlarni — qabul xatlari, moliyaviy hisobotlar, bank kafolatlari, sug'urta sertifikatlari va homiylik xatlarini — to'plash va tartibga solishda yordam beramiz va har birini elchixona tomonidan belgilangan aniq talablarga mos kelishini tekshiramiz. Bizning tafsilotlarga e'tiborimiz kechikishlar yoki rad etishlar xavfini sezilarli darajada kamaytiradi.",
+        "Ko'pgina talaba vizalari elchixonada shaxsan yoki onlayn suhbatni talab qiladi. Biz sizni eng ko'p beriladigan savollarni qamrab oladigan sinov suhbat sessiyalari bilan tayyorlaymiz, o'quv rejalaringiz va niyatlaringizni aniq ifodalashga yordam beramiz va o'zingizni professional tarzda taqdim etishingiz uchun ishonchingizni mustahkamlaymiz. Topshirilgandan so'ng, biz arizangiz holatini kuzatishda davom etamiz va zarur bo'lgan har qanday keyingi qadamlar bo'yicha maslahat beramiz."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Hujjatlarni tayyorlash:",
+          "text": "Biz viza arizangiz talab qiladigan barcha hujjatlarni — moliyaviy hisobotlardan tortib qabul xatlarigacha — to'playmiz, tartibga solamiz va ko'rib chiqamiz, hech narsa yetishmayotgan yoki noto'g'ri formatlanmaganligini ta'minlaymiz."
+        },
+        {
+          "title": "Suhbatga tayyorgarlik:",
+          "text": "Biz elchixona xodimlari beradigan savollarga tayyorlaydigan real sinov suhbatlarini o'tkazamiz, uchrashuvingiz kunida aniqlik va ishonch bilan javob berishingizga yordam beramiz."
+        },
+        {
+          "title": "Arizani kuzatish:",
+          "text": "Biz viza arizangiz holatini topshirilgandan keyin kuzatamiz va sizni har qanday yangilanishlar, qo'shimcha hujjat so'rovlari yoki elchixona tomonidan talab qilinadigan keyingi qadamlar haqida xabardor qilamiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Виза қўллаб-қувватлаш - Grant Consulting",
+      "description": "Grant Consulting'дан тўлиқ виза ариза қўллаб-қувватлаш — ҳужжатларни тайёрлаш, суҳбатга тайёргарлик ва аризани кузатиш хизматлари талабалар учун.",
+      "heroTitle": "Виза қўллаб-қувватлаш",
+      "sidebarLabel": "Виза қўллаб-қувватлаш",
+      "breadcrumbLabel": "Виза қўллаб-қувватлаш",
+      "paragraphs": [
+        "Талаба визасини олиш кўпинча чет элда ўқиш жараёнининг энг стрессли қисми ҳисобланади. Grant Consulting тўлиқ виза ариза қўллаб-қувватлашини тақдим этади, талабаларни ҳар бир давлат элчихонаси ёки консуллигининг махсус талаблари бўйича йўналтиради. Сиз АҚШ F-1 визаси, Буюк Британия Tier 4 визаси, Шенген талаба визаси ёки бошқа турдаги визага мурожаат қилаётган бўлсангиз, бизнинг жамоамиз сизнинг аризангиз пухта, аниқ ва ўз вақтида топширилишини таъминлайди.",
+        "Ҳужжатларни тайёрлаш — бу кўпчилик виза аризаларининг муваффақияти ёки муваффақиятсизлиги ҳал бўладиган босқич. Биз сизга барча зарур ҳужжатларни — қабул хатлари, молиявий ҳисоботлар, банк кафолатлари, суғурта сертификатлари ва ҳомийлик хатларини — тўплаш ва тартибга солишда ёрдам берамиз ва ҳар бирини элчихона томонидан белгиланган аниқ талабларга мос келишини текширамиз. Бизнинг тафсилотларга эътиборимиз кечикишлар ёки рад этишлар хавфини сезиларли даражада камайтиради.",
+        "Кўпгина талаба визалари элчихонада шахсан ёки онлайн суҳбатни талаб қилади. Биз сизни энг кўп бериладиган саволларни қамраб оладиган синов суҳбат сессиялари билан тайёрлаймиз, ўқув режаларингиз ва ниятларингизни аниқ ифодалашга ёрдам берамиз ва ўзингизни профессионал тарзда тақдим этишингиз учун ишончингизни мустаҳкамлаймиз. Топширилгандан сўнг, биз аризангиз ҳолатини кузатишда давом этамиз ва зарур бўлган ҳар қандай кейинги қадамлар бўйича маслаҳат берамиз."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Ҳужжатларни тайёрлаш:",
+          "text": "Биз виза аризангиз талаб қиладиган барча ҳужжатларни — молиявий ҳисоботлардан тортиб қабул хатларигача — тўплаймиз, тартибга соламиз ва кўриб чиқамиз, ҳеч нарса етишмаётган ёки нотўғри форматланмаганлигини таъминлаймиз."
+        },
+        {
+          "title": "Суҳбатга тайёргарлик:",
+          "text": "Биз элчихона ходимлари берадиган саволларга тайёрлайдиган реал синов суҳбатларини ўтказамиз, учрашувингиз кунида аниқлик ва ишонч билан жавоб беришингизга ёрдам берамиз."
+        },
+        {
+          "title": "Аризани кузатиш:",
+          "text": "Биз виза аризангиз ҳолатини топширилгандан кейин кузатамиз ва сизни ҳар қандай янгиланишлар, қўшимча ҳужжат сўровлари ёки элчихона томонидан талаб қилинадиган кейинги қадамлар ҳақида хабардор қиламиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Визовая поддержка - Grant Consulting",
+      "description": "Полная поддержка при подаче визы от Grant Consulting — подготовка документов, подготовка к собеседованию и отслеживание заявки для студентов.",
+      "heroTitle": "Визовая поддержка",
+      "sidebarLabel": "Визовая поддержка",
+      "breadcrumbLabel": "Визовая поддержка",
+      "paragraphs": [
+        "Получение студенческой визы зачастую является самой стрессовой частью процесса обучения за рубежом. Grant Consulting предоставляет полную поддержку при подаче визы, помогая студентам разобраться в специфических требованиях посольства или консульства каждой страны. Независимо от того, подаёте ли вы заявку на визу F-1 в США, визу Tier 4 в Великобританию, шенгенскую студенческую визу или любой другой тип, наша команда гарантирует, что ваша заявка будет тщательной, точной и подана вовремя.",
+        "Подготовка документов — это этап, на котором решается успех или неудача большинства визовых заявок. Мы помогаем вам собрать и систематизировать все необходимые документы — письма о зачислении, финансовые отчёты, банковские гарантии, страховые сертификаты и спонсорские письма — и проверяем каждый из них на соответствие точным требованиям посольства. Наше внимание к деталям значительно снижает риск задержек или отказов.",
+        "Многие студенческие визы требуют личного или онлайн-собеседования в посольстве. Мы готовим вас с помощью пробных собеседований, охватывающих наиболее часто задаваемые вопросы, помогаем чётко сформулировать ваши учебные планы и намерения и укрепляем вашу уверенность, чтобы вы могли представить себя профессионально. После подачи заявки мы продолжаем отслеживать статус вашего заявления и консультируем вас по любым дополнительным шагам."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Подготовка документов:",
+          "text": "Мы собираем, систематизируем и проверяем каждый документ, необходимый для вашей визовой заявки — от финансовых отчётов до писем о зачислении — гарантируя, что ничего не пропущено и не оформлено неправильно."
+        },
+        {
+          "title": "Подготовка к собеседованию:",
+          "text": "Мы проводим реалистичные пробные собеседования, которые готовят вас к вопросам сотрудников посольства, помогая отвечать ясно и уверенно в день вашего приёма."
+        },
+        {
+          "title": "Отслеживание заявки:",
+          "text": "Мы отслеживаем статус вашей визовой заявки после подачи и информируем вас о любых обновлениях, дополнительных запросах документов или следующих шагах, требуемых посольством."
+        }
+      ]
+    }
+  },
+  {
+    "id": "business-consulting",
+    "slug": "service-business-consulting",
+    "cssFile": "css/service-business-consulting.css",
+    "formPrefix": "bc",
+    "en": {
+      "title": "Free Consultation - Grant Consulting",
+      "description": "Start your study abroad journey with a free consultation from Grant Consulting — profile assessment, goal setting, and personalized path recommendations.",
+      "heroTitle": "Free Consultation",
+      "sidebarLabel": "Free Consultation",
+      "breadcrumbLabel": "Free Consultation",
+      "paragraphs": [
+        "Every successful study abroad journey begins with a conversation. Grant Consulting offers a completely free initial consultation where our experienced advisors sit down with you to understand your academic background, career ambitions, and personal circumstances. There is no obligation and no pressure — just an honest, informative session designed to help you understand your options.",
+        "During your consultation, we conduct a thorough profile assessment that evaluates your grades, test scores, language proficiency, extracurricular activities, and financial situation. This gives us a clear picture of where you stand and allows us to provide realistic, tailored advice rather than generic recommendations. We believe every student deserves to know exactly what is achievable before making any commitments.",
+        "By the end of your free session, you will walk away with a personalized path recommendation outlining the countries, universities, and programs that best match your profile and goals. We also discuss potential scholarship opportunities, estimated timelines, and the next steps you would need to take. Whether you choose to continue working with us or pursue your applications independently, the consultation gives you the clarity to move forward with confidence."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Profile assessment:",
+          "text": "We evaluate your academic record, language skills, and extracurricular background to build a complete picture of your strengths and areas for improvement."
+        },
+        {
+          "title": "Goal setting:",
+          "text": "We help you define clear, realistic academic and career goals so that every decision you make — from choosing a country to picking a program — supports your long-term vision."
+        },
+        {
+          "title": "Path recommendation:",
+          "text": "You leave your consultation with a personalized action plan that outlines recommended destinations, programs, scholarship options, and a realistic timeline to get started."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Bepul konsultatsiya - Grant Consulting",
+      "description": "Grant Consulting'dan bepul konsultatsiya bilan chet elda o'qish sayohatingizni boshlang — profil baholash, maqsad belgilash va shaxsiylashtirilgan yo'l tavsiyalari.",
+      "heroTitle": "Bepul konsultatsiya",
+      "sidebarLabel": "Bepul konsultatsiya",
+      "breadcrumbLabel": "Bepul konsultatsiya",
+      "paragraphs": [
+        "Har bir muvaffaqiyatli chet elda o'qish sayohati suhbatdan boshlanadi. Grant Consulting tajribali maslahatchilarimiz sizning akademik ma'lumotingiz, karyera ambitsiyalaringiz va shaxsiy vaziyatingizni tushunish uchun siz bilan birga o'tiradigan mutlaqo bepul dastlabki konsultatsiyani taklif etadi. Hech qanday majburiyat va bosim yo'q — faqat sizga variantlaringizni tushunishga yordam beradigan halol, ma'lumotli sessiya.",
+        "Konsultatsiyangiz davomida biz sizning baholaringiz, test natijalaringiz, til bilish darajangiz, darsdan tashqari faoliyatingiz va moliyaviy vaziyatingizni baholaydigan puxta profil baholashni o'tkazamiz. Bu bizga siz qayerda turishingiz haqida aniq tasavvur beradi va umumiy tavsiyalar o'rniga real, moslashtirilgan maslahat berishimizga imkon beradi. Biz har bir talaba biron bir majburiyat olishdan oldin aniq nimaga erishish mumkinligini bilishga loyiq deb hisoblaymiz.",
+        "Bepul sessiyangiz oxiriga kelib, siz profilingiz va maqsadlaringizga eng mos keladigan mamlakatlar, universitetlar va dasturlarni ko'rsatadigan shaxsiylashtirilgan yo'l tavsiyasi bilan chiqasiz. Shuningdek, biz potentsial stipendiya imkoniyatlari, taxminiy muddatlar va keyingi qadamlarni muhokama qilamiz. Biz bilan ishlashni davom ettirishni yoki arizalaringizni mustaqil ravishda davom ettirishni tanlasangiz ham, konsultatsiya sizga ishonch bilan oldinga qadam qo'yish uchun aniqlik beradi."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Profil baholash:",
+          "text": "Biz sizning akademik yozuvlaringiz, til ko'nikmalaringiz va darsdan tashqari faoliyatingizni baholab, sizning kuchli tomonlaringiz va yaxshilash sohalaringizning to'liq rasmini tuzamiz."
+        },
+        {
+          "title": "Maqsad belgilash:",
+          "text": "Biz sizga aniq, real akademik va karyera maqsadlarini belgilashda yordam beramiz, shunda siz qabul qiladigan har bir qaror — mamlakatni tanlashdan tortib dasturni tanlashgacha — uzoq muddatli ko'rinishingizni qo'llab-quvvatlaydi."
+        },
+        {
+          "title": "Yo'l tavsiyasi:",
+          "text": "Siz konsultatsiyangizdan tavsiya etilgan manzillar, dasturlar, stipendiya imkoniyatlari va boshlash uchun real muddatlarni ko'rsatadigan shaxsiylashtirilgan harakat rejasi bilan chiqasiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Бепул консултатсия - Grant Consulting",
+      "description": "Grant Consulting'дан бепул консултатсия билан чет элда ўқиш саёҳатингизни бошланг — профил баҳолаш, мақсад белгилаш ва шахсийлаштирилган йўл тавсиялари.",
+      "heroTitle": "Бепул консултатсия",
+      "sidebarLabel": "Бепул консултатсия",
+      "breadcrumbLabel": "Бепул консултатсия",
+      "paragraphs": [
+        "Ҳар бир муваффақиятли чет элда ўқиш саёҳати суҳбатдан бошланади. Grant Consulting тажрибали маслаҳатчиларимиз сизнинг академик маълумотингиз, карьера амбитсияларингиз ва шахсий вазиятингизни тушуниш учун сиз билан бирга ўтирадиган мутлақо бепул дастлабки консултатсияни таклиф этади. Ҳеч қандай мажбурият ва босим йўқ — фақат сизга вариантларингизни тушунишга ёрдам берадиган ҳалол, маълумотли сессия.",
+        "Консултатсиянгиз давомида биз сизнинг баҳоларингиз, тест натижаларингиз, тил билиш даражангиз, дарсдан ташқари фаолиятингиз ва молиявий вазиятингизни баҳолайдиган пухта профил баҳолашни ўтказамиз. Бу бизга сиз қаерда туришингиз ҳақида аниқ тасаввур беради ва умумий тавсиялар ўрнига реал, мослаштирилган маслаҳат беришимизга имкон беради. Биз ҳар бир талаба бирон бир мажбурият олишдан олдин аниқ нимага эришиш мумкинлигини билишга лойиқ деб ҳисоблаймиз.",
+        "Бепул сессиянгиз охирига келиб, сиз профилингиз ва мақсадларингизга энг мос келадиган мамлакатлар, университетлар ва дастурларни кўрсатадиган шахсийлаштирилган йўл тавсияси билан чиқасиз. Шунингдек, биз потенциал стипендия имкониятлари, тахминий муддатлар ва кейинги қадамларни муҳокама қиламиз. Биз билан ишлашни давом эттиришни ёки аризаларингизни мустақил равишда давом эттиришни танласангиз ҳам, консултатсия сизга ишонч билан олдинга қадам қўйиш учун аниқлик беради."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Профил баҳолаш:",
+          "text": "Биз сизнинг академик ёзувларингиз, тил кўникмаларингиз ва дарсдан ташқари фаолиятингизни баҳолаб, сизнинг кучли томонларингиз ва яхшилаш соҳаларингизнинг тўлиқ расмини тузамиз."
+        },
+        {
+          "title": "Мақсад белгилаш:",
+          "text": "Биз сизга аниқ, реал академик ва карьера мақсадларини белгилашда ёрдам берамиз, шунда сиз қабул қиладиган ҳар бир қарор — мамлакатни танлашдан тортиб дастурни танлашгача — узоқ муддатли кўринишингизни қўллаб-қувватлайди."
+        },
+        {
+          "title": "Йўл тавсияси:",
+          "text": "Сиз консултатсиянгиздан тавсия этилган манзиллар, дастурлар, стипендия имкониятлари ва бошлаш учун реал муддатларни кўрсатадиган шахсийлаштирилган ҳаракат режаси билан чиқасиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Бесплатная консультация - Grant Consulting",
+      "description": "Начните свой путь к обучению за рубежом с бесплатной консультации от Grant Consulting — оценка профиля, постановка целей и персональные рекомендации по выбору пути.",
+      "heroTitle": "Бесплатная консультация",
+      "sidebarLabel": "Бесплатная консультация",
+      "breadcrumbLabel": "Бесплатная консультация",
+      "paragraphs": [
+        "Каждый успешный путь к обучению за рубежом начинается с разговора. Grant Consulting предлагает полностью бесплатную первичную консультацию, на которой наши опытные консультанты садятся с вами, чтобы понять вашу академическую подготовку, карьерные амбиции и личные обстоятельства. Никаких обязательств и давления — только честная, информативная сессия, призванная помочь вам понять ваши варианты.",
+        "Во время консультации мы проводим тщательную оценку профиля, которая включает анализ ваших оценок, результатов тестов, уровня владения языком, внеучебной деятельности и финансового положения. Это даёт нам чёткое представление о вашем текущем положении и позволяет предоставлять реалистичные, индивидуальные рекомендации вместо общих советов. Мы считаем, что каждый студент заслуживает точно знать, что достижимо, прежде чем брать на себя какие-либо обязательства.",
+        "К концу бесплатной сессии вы уйдёте с персональной рекомендацией пути, описывающей страны, университеты и программы, которые лучше всего соответствуют вашему профилю и целям. Мы также обсудим потенциальные стипендиальные возможности, примерные сроки и следующие шаги, которые вам нужно будет предпринять. Независимо от того, решите ли вы продолжить работу с нами или подавать заявки самостоятельно, консультация даст вам ясность для уверенного движения вперёд."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Оценка профиля:",
+          "text": "Мы оцениваем вашу академическую успеваемость, языковые навыки и внеучебную деятельность, чтобы составить полную картину ваших сильных сторон и областей для улучшения."
+        },
+        {
+          "title": "Постановка целей:",
+          "text": "Мы помогаем вам определить чёткие, реалистичные академические и карьерные цели, чтобы каждое ваше решение — от выбора страны до выбора программы — поддерживало ваше долгосрочное видение."
+        },
+        {
+          "title": "Рекомендация пути:",
+          "text": "Вы покидаете консультацию с персональным планом действий, в котором указаны рекомендуемые направления, программы, стипендиальные возможности и реалистичные сроки для начала."
+        }
+      ]
+    }
+  },
+  {
+    "id": "audit-evaluation",
+    "slug": "service-audit-evaluation",
+    "cssFile": "css/service-audit-evaluation.css",
+    "formPrefix": "ae",
+    "en": {
+      "title": "Document Review - Grant Consulting",
+      "description": "Thorough document review and evaluation services from Grant Consulting — transcript evaluation, document verification, and gap analysis for study abroad applicants.",
+      "heroTitle": "Document Review & Evaluation",
+      "sidebarLabel": "Document Review",
+      "breadcrumbLabel": "Document Review",
+      "paragraphs": [
+        "International universities have strict documentation requirements, and even a small error or missing item can delay or derail your application. Grant Consulting provides a thorough review of every academic and personal document you need to submit — transcripts, diplomas, recommendation letters, personal statements, and standardized test scores — to make sure everything is complete, accurate, and properly formatted.",
+        "Transcript evaluation is a critical part of applying to universities abroad, especially when your academic records follow a different grading system. We assess your transcripts against the standards of your target country and institution, calculate GPA equivalencies where needed, and identify any courses or credits that may require additional explanation or supplementary documentation.",
+        "Our document review process also includes a gap analysis that highlights anything missing from your application package before you submit. Whether it is an outdated test score, a missing notarized translation, or a recommendation letter that does not meet the university's format requirements, we catch these issues early so you have time to address them without jeopardizing your deadlines."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Transcript evaluation:",
+          "text": "We review your academic transcripts, calculate GPA equivalencies, and ensure your grades are presented in the format your target universities expect."
+        },
+        {
+          "title": "Document verification:",
+          "text": "We check every document in your application package for accuracy, completeness, and proper formatting — including translations, notarizations, and certifications."
+        },
+        {
+          "title": "Gap analysis:",
+          "text": "We identify missing or outdated documents before you submit your application, giving you time to resolve issues and present the strongest possible package."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Hujjatlarni ko'rib chiqish - Grant Consulting",
+      "description": "Grant Consulting'dan puxta hujjatlarni ko'rib chiqish va baholash xizmatlari — transkript baholash, hujjatlarni tekshirish va chet elda o'qish uchun ariza beruvchilar uchun kamchiliklar tahlili.",
+      "heroTitle": "Hujjatlarni ko'rib chiqish va baholash",
+      "sidebarLabel": "Hujjatlarni ko'rib chiqish",
+      "breadcrumbLabel": "Hujjatlarni ko'rib chiqish",
+      "paragraphs": [
+        "Xalqaro universitetlar hujjatlarga qat'iy talablar qo'yadi va hatto kichik xato yoki yetishmayotgan element arizangizni kechiktirishi yoki bekor qilishi mumkin. Grant Consulting siz topshirishingiz kerak bo'lgan har bir akademik va shaxsiy hujjatni — transkriptlar, diplomlar, tavsiya xatlari, shaxsiy bayonotlar va standartlashtirilgan test natijalarini — puxta ko'rib chiqadi, hamma narsa to'liq, aniq va to'g'ri formatlanganligiga ishonch hosil qiladi.",
+        "Transkript baholash chet elda universitetlarga ariza berishning muhim qismidir, ayniqsa akademik yozuvlaringiz boshqa baholash tizimiga amal qilganda. Biz transkriptlaringizni maqsadli mamlakatingiz va muassasangiz standartlariga nisbatan baholaymiz, zarur bo'lganda GPA ekvivalentligini hisoblaymiz va qo'shimcha tushuntirish yoki qo'shimcha hujjatlarni talab qilishi mumkin bo'lgan kurslar yoki kreditlarni aniqlaymiz.",
+        "Hujjatlarni ko'rib chiqish jarayonimiz shuningdek topshirishdan oldin ariza paketingizda yetishmayotgan narsalarni ko'rsatadigan kamchiliklar tahlilini o'z ichiga oladi. Eskirgan test natijasi, yetishmayotgan notarial tarjima yoki universitetning format talablariga javob bermaydigan tavsiya xati bo'ladimi, biz bu muammolarni erta aniqlaymiz, shunda siz muddatlaringizni xavf ostiga qo'ymasdan ularni hal qilishga vaqtingiz bo'ladi."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Transkript baholash:",
+          "text": "Biz akademik transkriptlaringizni ko'rib chiqamiz, GPA ekvivalentligini hisoblaymiz va baholaringiz maqsadli universitetlaringiz kutgan formatda taqdim etilishini ta'minlaymiz."
+        },
+        {
+          "title": "Hujjatlarni tekshirish:",
+          "text": "Biz ariza paketingizdagi har bir hujjatni aniqlik, to'liqlik va to'g'ri formatlash uchun tekshiramiz — shu jumladan tarjimalar, notarial tasdiqlashlar va sertifikatlar."
+        },
+        {
+          "title": "Kamchiliklar tahlili:",
+          "text": "Biz arizangizni topshirishdan oldin yetishmayotgan yoki eskirgan hujjatlarni aniqlaymiz, sizga muammolarni hal qilish va eng kuchli paketni taqdim etish uchun vaqt beramiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Ҳужжатларни кўриб чиқиш - Grant Consulting",
+      "description": "Grant Consulting'дан пухта ҳужжатларни кўриб чиқиш ва баҳолаш хизматлари — транскрипт баҳолаш, ҳужжатларни текшириш ва чет элда ўқиш учун ариза берувчилар учун камчиликлар таҳлили.",
+      "heroTitle": "Ҳужжатларни кўриб чиқиш ва баҳолаш",
+      "sidebarLabel": "Ҳужжатларни кўриб чиқиш",
+      "breadcrumbLabel": "Ҳужжатларни кўриб чиқиш",
+      "paragraphs": [
+        "Халқаро университетлар ҳужжатларга қатъий талаблар қўяди ва ҳатто кичик хато ёки етишмаётган элемент аризангизни кечиктириши ёки бекор қилиши мумкин. Grant Consulting сиз топширишингиз керак бўлган ҳар бир академик ва шахсий ҳужжатни — транскриптлар, дипломлар, тавсия хатлари, шахсий баёнотлар ва стандартлаштирилган тест натижаларини — пухта кўриб чиқади, ҳамма нарса тўлиқ, аниқ ва тўғри форматланганлигига ишонч ҳосил қилади.",
+        "Транскрипт баҳолаш чет элда университетларга ариза беришнинг муҳим қисмидир, айниқса академик ёзувларингиз бошқа баҳолаш тизимига амал қилганда. Биз транскриптларингизни мақсадли мамлакатингиз ва муассасангиз стандартларига нисбатан баҳолаймиз, зарур бўлганда GPA эквивалентлигини ҳисоблаймиз ва қўшимча тушунтириш ёки қўшимча ҳужжатларни талаб қилиши мумкин бўлган курслар ёки кредитларни аниқлаймиз.",
+        "Ҳужжатларни кўриб чиқиш жараёнимиз шунингдек топширишдан олдин ариза пакетингизда етишмаётган нарсаларни кўрсатадиган камчиликлар таҳлилини ўз ичига олади. Эскирган тест натижаси, етишмаётган нотариал таржима ёки университетнинг формат талабларига жавоб бермайдиган тавсия хати бўладими, биз бу муаммоларни эрта аниқлаймиз, шунда сиз муддатларингизни хавф остига қўймасдан уларни ҳал қилишга вақтингиз бўлади."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Транскрипт баҳолаш:",
+          "text": "Биз академик транскриптларингизни кўриб чиқамиз, GPA эквивалентлигини ҳисоблаймиз ва баҳоларингиз мақсадли университетларингиз кутган форматда тақдим этилишини таъминлаймиз."
+        },
+        {
+          "title": "Ҳужжатларни текшириш:",
+          "text": "Биз ариза пакетингиздаги ҳар бир ҳужжатни аниқлик, тўлиқлик ва тўғри форматлаш учун текширамиз — шу жумладан таржималар, нотариал тасдиқлашлар ва сертификатлар."
+        },
+        {
+          "title": "Камчиликлар таҳлили:",
+          "text": "Биз аризангизни топширишдан олдин етишмаётган ёки эскирган ҳужжатларни аниқлаймиз, сизга муаммоларни ҳал қилиш ва энг кучли пакетни тақдим этиш учун вақт берамиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Проверка документов - Grant Consulting",
+      "description": "Тщательная проверка и оценка документов от Grant Consulting — оценка транскриптов, верификация документов и анализ пробелов для поступающих на обучение за рубежом.",
+      "heroTitle": "Проверка и оценка документов",
+      "sidebarLabel": "Проверка документов",
+      "breadcrumbLabel": "Проверка документов",
+      "paragraphs": [
+        "Международные университеты предъявляют строгие требования к документации, и даже небольшая ошибка или отсутствующий документ может задержать или сорвать вашу заявку. Grant Consulting проводит тщательную проверку каждого академического и личного документа, который вам необходимо подать — транскрипты, дипломы, рекомендательные письма, мотивационные письма и результаты стандартизированных тестов — чтобы убедиться, что всё полно, точно и правильно оформлено.",
+        "Оценка транскриптов является критически важной частью поступления в зарубежные университеты, особенно когда ваши академические записи следуют другой системе оценивания. Мы оцениваем ваши транскрипты в соответствии со стандартами целевой страны и учебного заведения, рассчитываем эквиваленты GPA при необходимости и определяем курсы или кредиты, которые могут потребовать дополнительного объяснения или сопроводительной документации.",
+        "Наш процесс проверки документов также включает анализ пробелов, который выявляет всё недостающее в вашем пакете документов до подачи заявки. Будь то устаревший результат теста, отсутствующий нотариальный перевод или рекомендательное письмо, не соответствующее требованиям формата университета, мы выявляем эти проблемы заблаговременно, чтобы у вас было время их устранить, не ставя под угрозу ваши сроки."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Оценка транскриптов:",
+          "text": "Мы проверяем ваши академические транскрипты, рассчитываем эквиваленты GPA и гарантируем, что ваши оценки представлены в формате, ожидаемом вашими целевыми университетами."
+        },
+        {
+          "title": "Верификация документов:",
+          "text": "Мы проверяем каждый документ в вашем пакете заявки на точность, полноту и правильное оформление — включая переводы, нотариальные заверения и сертификаты."
+        },
+        {
+          "title": "Анализ пробелов:",
+          "text": "Мы выявляем отсутствующие или устаревшие документы до подачи вашей заявки, давая вам время устранить проблемы и представить максимально сильный пакет документов."
+        }
+      ]
+    }
+  },
+  {
+    "id": "digital-marketing",
+    "slug": "service-digital-marketing",
+    "cssFile": "css/service-digital-marketing.css",
+    "formPrefix": "dm",
+    "en": {
+      "title": "IELTS Preparation - Grant Consulting",
+      "description": "Achieve your target IELTS score with Grant Consulting's preparation courses — practice tests, score improvement strategies, and speaking coaching.",
+      "heroTitle": "IELTS Preparation",
+      "sidebarLabel": "IELTS Preparation",
+      "breadcrumbLabel": "IELTS Preparation",
+      "paragraphs": [
+        "A strong IELTS score is the gateway to studying at top universities around the world. Grant Consulting offers structured IELTS preparation courses designed to help students achieve the band scores required by their target institutions. Our classes cover all four sections of the exam — Listening, Reading, Writing, and Speaking — with a curriculum built around proven test-taking strategies and real exam materials.",
+        "Regular practice testing is at the core of our preparation approach. Students take full-length mock exams under timed conditions throughout the course, allowing them to track their progress and identify the specific areas where they need the most improvement. After each practice test, our instructors provide detailed feedback with actionable advice on how to gain additional points in each section.",
+        "The Speaking section is often the most challenging for students in Uzbekistan, and it is the area where personalized coaching makes the biggest difference. Our instructors conduct one-on-one speaking practice sessions that simulate the real exam environment, helping students build fluency, improve pronunciation, and develop the confidence to perform at their best. Whether you need to reach a 6.0 or a 7.5, we tailor our approach to your current level and target score."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Practice tests:",
+          "text": "We administer full-length, timed mock exams using official and curated materials, giving you a realistic preview of the test and a clear benchmark of your current ability."
+        },
+        {
+          "title": "Score improvement:",
+          "text": "Our instructors analyze your results after every practice test and create a focused study plan that targets your weakest areas, so every hour of preparation counts."
+        },
+        {
+          "title": "Speaking coaching:",
+          "text": "We provide one-on-one speaking practice sessions that build your fluency, refine your pronunciation, and prepare you to handle any question the examiner may ask."
+        }
+      ]
+    },
+    "uz": {
+      "title": "IELTS tayyorgarlik - Grant Consulting",
+      "description": "Grant Consulting tayyorgarlik kurslari bilan maqsadli IELTS balingizga erishing — amaliy testlar, ball yaxshilash strategiyalari va speaking kouching.",
+      "heroTitle": "IELTS tayyorgarlik",
+      "sidebarLabel": "IELTS tayyorgarlik",
+      "breadcrumbLabel": "IELTS tayyorgarlik",
+      "paragraphs": [
+        "Yuqori IELTS bali dunyo bo'ylab eng yaxshi universitetlarda o'qish uchun darvozadir. Grant Consulting talabalarga maqsadli muassasalari talab qiladigan ball ko'rsatkichlariga erishishga yordam berish uchun mo'ljallangan tuzilgan IELTS tayyorgarlik kurslarini taklif etadi. Bizning darslarimiz imtihonning to'rtala bo'limini qamrab oladi — Listening, Reading, Writing va Speaking — isbotlangan test topshirish strategiyalari va haqiqiy imtihon materiallari asosida qurilgan o'quv dasturi bilan.",
+        "Muntazam amaliy testlar bizning tayyorgarlik yondashuvimizning asosini tashkil qiladi. Talabalar kurs davomida vaqt chegarasi bilan to'liq hajmli sinov imtihonlarini topshiradilar, bu ularga o'z taraqqiyotini kuzatish va eng ko'p takomillashtirish zarur bo'lgan aniq sohalarni aniqlash imkonini beradi. Har bir amaliy testdan so'ng, o'qituvchilarimiz har bir bo'limda qo'shimcha ball olish bo'yicha amaliy maslahatlar bilan batafsil fikr-mulohaza bildiradi.",
+        "Speaking bo'limi ko'pincha O'zbekistondagi talabalar uchun eng qiyin bo'lib, bu shaxsiy kouching eng katta farq qiladigan sohadir. Bizning o'qituvchilarimiz haqiqiy imtihon muhitini simulyatsiya qiluvchi yakka tartibdagi speaking mashq sessiyalarini o'tkazadi, talabalarga ravonlikni oshirish, talaffuzni yaxshilash va eng yaxshi natija ko'rsatish uchun ishonchni rivojlantirishga yordam beradi. Sizga 6.0 yoki 7.5 ga erishish kerak bo'lishidan qat'i nazar, biz yondashuvimizni sizning hozirgi darajangiz va maqsadli balingizga moslashtiramiz."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Amaliy testlar:",
+          "text": "Biz rasmiy va tanlangan materiallardan foydalanib, to'liq hajmli, vaqt chegarali sinov imtihonlarini o'tkazamiz, bu sizga testning real ko'rinishini va joriy qobiliyatingizning aniq ko'rsatkichini beradi."
+        },
+        {
+          "title": "Ball yaxshilash:",
+          "text": "O'qituvchilarimiz har bir amaliy testdan so'ng natijalaringizni tahlil qiladi va eng zaif sohalaringizni nishonga oladigan yo'naltirilgan o'quv rejasini tuzadi, shu bilan tayyorgarlikning har bir soati hisobga olinadi."
+        },
+        {
+          "title": "Speaking kouching:",
+          "text": "Biz sizning ravonligingizni oshiradigan, talaffuzingizni takomillashtiradigan va imtihon oluvchi berishi mumkin bo'lgan har qanday savolga tayyor bo'lishingizni ta'minlaydigan yakka tartibdagi speaking mashq sessiyalarini taqdim etamiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "IELTS тайёргарлик - Grant Consulting",
+      "description": "Grant Consulting тайёргарлик курслари билан мақсадли IELTS балингизга эришинг — амалий тестлар, балл яхшилаш стратегиялари ва speaking коучинг.",
+      "heroTitle": "IELTS тайёргарлик",
+      "sidebarLabel": "IELTS тайёргарлик",
+      "breadcrumbLabel": "IELTS тайёргарлик",
+      "paragraphs": [
+        "Юқори IELTS бали дунё бўйлаб энг яхши университетларда ўқиш учун дарвозадир. Grant Consulting талабаларга мақсадли муассасалари талаб қиладиган балл кўрсаткичларига эришишга ёрдам бериш учун мўлжалланган тузилган IELTS тайёргарлик курсларини таклиф этади. Бизнинг дарсларимиз имтиҳоннинг тўртала бўлимини қамраб олади — Listening, Reading, Writing ва Speaking — исботланган тест топшириш стратегиялари ва ҳақиқий имтиҳон материаллари асосида қурилган ўқув дастури билан.",
+        "Мунтазам амалий тестлар бизнинг тайёргарлик ёндашувимизнинг асосини ташкил қилади. Талабалар курс давомида вақт чегараси билан тўлиқ ҳажмли синов имтиҳонларини топширадилар, бу уларга ўз тараққиётини кузатиш ва энг кўп такомиллаштириш зарур бўлган аниқ соҳаларни аниқлаш имконини беради. Ҳар бир амалий тестдан сўнг, ўқитувчиларимиз ҳар бир бўлимда қўшимча балл олиш бўйича амалий маслаҳатлар билан батафсил фикр-мулоҳаза билдиради.",
+        "Speaking бўлими кўпинча Ўзбекистондаги талабалар учун энг қийин бўлиб, бу шахсий коучинг энг катта фарқ қиладиган соҳадир. Бизнинг ўқитувчиларимиз ҳақиқий имтиҳон муҳитини симуляция қилувчи якка тартибдаги speaking машқ сессияларини ўтказади, талабаларга равонликни ошириш, талаффузни яхшилаш ва энг яхши натижа кўрсатиш учун ишончни ривожлантиришга ёрдам беради. Сизга 6.0 ёки 7.5 га эришиш керак бўлишидан қатъи назар, биз ёндашувимизни сизнинг ҳозирги даражангиз ва мақсадли балингизга мослаштирамиз."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Амалий тестлар:",
+          "text": "Биз расмий ва танланган материаллардан фойдаланиб, тўлиқ ҳажмли, вақт чегарали синов имтиҳонларини ўтказамиз, бу сизга тестнинг реал кўринишини ва жорий қобилиятингизнинг аниқ кўрсаткичини беради."
+        },
+        {
+          "title": "Балл яхшилаш:",
+          "text": "Ўқитувчиларимиз ҳар бир амалий тестдан сўнг натижаларингизни таҳлил қилади ва энг заиф соҳаларингизни нишонга оладиган йўналтирилган ўқув режасини тузади, шу билан тайёргарликнинг ҳар бир соати ҳисобга олинади."
+        },
+        {
+          "title": "Speaking коучинг:",
+          "text": "Биз сизнинг равонлигингизни ошурадиган, талаффузингизни такомиллаштирадиган ва имтиҳон олувчи бериши мумкин бўлган ҳар қандай саволга тайёр бўлишингизни таъминлайдиган якка тартибдаги speaking машқ сессияларини тақдим этамиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Подготовка к IELTS - Grant Consulting",
+      "description": "Достигните целевого балла IELTS с подготовительными курсами Grant Consulting — пробные тесты, стратегии повышения баллов и коучинг по разговорной речи.",
+      "heroTitle": "Подготовка к IELTS",
+      "sidebarLabel": "Подготовка к IELTS",
+      "breadcrumbLabel": "Подготовка к IELTS",
+      "paragraphs": [
+        "Высокий балл IELTS — это путь к обучению в лучших университетах мира. Grant Consulting предлагает структурированные курсы подготовки к IELTS, разработанные для того, чтобы помочь студентам достичь баллов, требуемых их целевыми учебными заведениями. Наши занятия охватывают все четыре раздела экзамена — Listening, Reading, Writing и Speaking — с учебной программой, построенной на проверенных стратегиях сдачи тестов и реальных экзаменационных материалах.",
+        "Регулярное пробное тестирование лежит в основе нашего подхода к подготовке. На протяжении всего курса студенты сдают полноформатные пробные экзамены в условиях ограниченного времени, что позволяет им отслеживать свой прогресс и определять конкретные области, требующие наибольшего улучшения. После каждого пробного теста наши преподаватели предоставляют подробную обратную связь с практическими рекомендациями по набору дополнительных баллов в каждом разделе.",
+        "Раздел Speaking часто является самым сложным для студентов из Узбекистана, и именно в этой области персональный коучинг даёт наибольший результат. Наши преподаватели проводят индивидуальные практические сессии по разговорной речи, имитирующие реальную обстановку экзамена, помогая студентам развить беглость речи, улучшить произношение и обрести уверенность для достижения наилучших результатов. Независимо от того, нужен ли вам балл 6.0 или 7.5, мы адаптируем наш подход к вашему текущему уровню и целевому баллу."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Пробные тесты:",
+          "text": "Мы проводим полноформатные пробные экзамены с ограничением по времени, используя официальные и тщательно отобранные материалы, что даёт вам реалистичное представление о тесте и чёткий ориентир вашего текущего уровня."
+        },
+        {
+          "title": "Повышение баллов:",
+          "text": "Наши преподаватели анализируют ваши результаты после каждого пробного теста и составляют целенаправленный план подготовки, нацеленный на ваши слабые стороны, чтобы каждый час подготовки приносил максимальную пользу."
+        },
+        {
+          "title": "Коучинг по разговорной речи:",
+          "text": "Мы проводим индивидуальные практические сессии по разговорной речи, которые развивают вашу беглость, совершенствуют произношение и готовят вас к любому вопросу, который может задать экзаменатор."
+        }
+      ]
+    }
+  },
+  {
+    "id": "seo-ranking",
+    "slug": "service-seo-ranking",
+    "cssFile": "css/service-seo-ranking.css",
+    "formPrefix": "seo",
+    "en": {
+      "title": "Pre-Departure Training - Grant Consulting",
+      "description": "Prepare for life abroad with Grant Consulting's pre-departure training — cultural orientation, academic preparation, and essential life skills for international students.",
+      "heroTitle": "Pre-Departure Training",
+      "sidebarLabel": "Pre-Departure Training",
+      "breadcrumbLabel": "Pre-Departure Training",
+      "paragraphs": [
+        "Getting accepted to a university abroad is a major achievement, but the transition to a new country, culture, and academic system brings its own set of challenges. Grant Consulting's pre-departure training program prepares students for every aspect of life abroad so they can arrive confident, informed, and ready to succeed from day one. Our sessions are led by advisors who have firsthand experience living and studying in the countries our students are heading to.",
+        "Cultural orientation is a key part of our training. We cover the social norms, communication styles, and everyday customs of your destination country so you know what to expect and how to navigate new situations comfortably. From understanding classroom etiquette and professor-student relationships to managing daily tasks like banking, transportation, and healthcare, we make sure nothing catches you off guard.",
+        "Academic preparation and practical life skills round out the program. We help students understand the expectations of their new academic environment — including grading systems, research standards, and time management techniques — and cover essential topics like budgeting, cooking basics, accommodation setup, and staying connected with family back home. Our goal is to make sure you are not just academically prepared but genuinely ready to thrive in your new surroundings."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Cultural orientation:",
+          "text": "We introduce you to the social norms, customs, and everyday expectations of your destination country so you can adapt quickly and avoid common misunderstandings."
+        },
+        {
+          "title": "Academic preparation:",
+          "text": "We explain how your new university's academic system works — grading scales, classroom participation norms, research expectations — so you can perform at your best from the start."
+        },
+        {
+          "title": "Life skills training:",
+          "text": "We cover the practical essentials of independent living abroad — budgeting, cooking, finding housing, using public transport, and accessing healthcare — so you feel at home faster."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Jo'nashdan oldingi tayyorgarlik - Grant Consulting",
+      "description": "Grant Consulting'ning jo'nashdan oldingi tayyorgarlik dasturi bilan chet elda hayotga tayyorlaning — madaniy yo'naltirish, akademik tayyorgarlik va xalqaro talabalar uchun zarur hayotiy ko'nikmalar.",
+      "heroTitle": "Jo'nashdan oldingi tayyorgarlik",
+      "sidebarLabel": "Jo'nashdan oldingi tayyorgarlik",
+      "breadcrumbLabel": "Jo'nashdan oldingi tayyorgarlik",
+      "paragraphs": [
+        "Chet eldagi universitetga qabul qilinish katta yutuq, ammo yangi mamlakat, madaniyat va akademik tizimga o'tish o'ziga xos qiyinchiliklarni olib keladi. Grant Consulting'ning jo'nashdan oldingi tayyorgarlik dasturi talabalarni chet eldagi hayotning har bir jihatiga tayyorlaydi, shu bilan ular ishonchli, xabardor va birinchi kundan muvaffaqiyatga tayyor holda etib keladi. Bizning sessiyalarimiz talabalarimiz ketayotgan mamlakatlarda yashash va o'qish bo'yicha bevosita tajribaga ega maslahatchilar tomonidan o'tkaziladi.",
+        "Madaniy yo'naltirish bizning tayyorgarligimizning asosiy qismidir. Biz manzil mamlakatingizning ijtimoiy normalari, muloqot uslublari va kundalik urf-odatlarini yoritamiz, shu bilan siz nimani kutish kerakligini va yangi vaziyatlarda qanday qulay harakat qilishni bilasiz. Dars xonasidagi odobdan va professor-talaba munosabatlarini tushunishdan tortib, bank xizmatlari, transport va tibbiy xizmat kabi kundalik ishlarni boshqarishgacha — biz hech narsa sizni kutilmaganda tutib qolmasligiga ishonch hosil qilamiz.",
+        "Akademik tayyorgarlik va amaliy hayotiy ko'nikmalar dasturni to'ldiradi. Biz talabalarga yangi akademik muhitning kutganlarini tushunishga yordam beramiz — jumladan, baholash tizimlari, tadqiqot standartlari va vaqtni boshqarish usullari — va byudjet rejalashtirish, ovqat pishirish asoslari, turar joyni sozlash va uyda qolgan oila bilan aloqada bo'lish kabi muhim mavzularni qamrab olamiz. Bizning maqsadimiz — sizning faqat akademik jihatdan emas, balki yangi muhitingizda chindan ham rivojlanishga tayyor ekanligingizga ishonch hosil qilish."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Madaniy yo'naltirish:",
+          "text": "Biz sizni manzil mamlakatingizning ijtimoiy normalari, urf-odatlari va kundalik kutishlari bilan tanishtramiz, shu bilan siz tezda moslasha olasiz va keng tarqalgan tushunmovchiliklardan qocha olasiz."
+        },
+        {
+          "title": "Akademik tayyorgarlik:",
+          "text": "Biz yangi universitetingizning akademik tizimi qanday ishlashini tushuntiramiz — baholash shkalalari, darsda ishtirok etish normalari, tadqiqot kutishlari — shu bilan siz boshidanoq eng yaxshi natija ko'rsata olasiz."
+        },
+        {
+          "title": "Hayotiy ko'nikmalar tayyorgarligi:",
+          "text": "Biz chet elda mustaqil yashashning amaliy asoslarini qamrab olamiz — byudjet rejalashtirish, ovqat pishirish, turar joy topish, jamoat transportidan foydalanish va tibbiy xizmatga murojaat qilish — shu bilan siz tezroq o'zingizni uyda his qilasiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Жўнашдан олдинги тайёргарлик - Grant Consulting",
+      "description": "Grant Consulting'нинг жўнашдан олдинги тайёргарлик дастури билан чет элда ҳаётга тайёрланинг — маданий йўналтириш, академик тайёргарлик ва халқаро талабалар учун зарур ҳаётий кўникмалар.",
+      "heroTitle": "Жўнашдан олдинги тайёргарлик",
+      "sidebarLabel": "Жўнашдан олдинги тайёргарлик",
+      "breadcrumbLabel": "Жўнашдан олдинги тайёргарлик",
+      "paragraphs": [
+        "Чет элдаги университетга қабул қилиниш катта ютуқ, аммо янги мамлакат, маданият ва академик тизимга ўтиш ўзига хос қийинчиликларни олиб келади. Grant Consulting'нинг жўнашдан олдинги тайёргарлик дастури талабаларни чет элдаги ҳаётнинг ҳар бир жиҳатига тайёрлайди, шу билан улар ишончли, хабардор ва биринчи кундан муваффақиятга тайёр ҳолда этиб келади. Бизнинг сессияларимиз талабаларимиз кетаётган мамлакатларда яшаш ва ўқиш бўйича бевосита тажрибага эга маслаҳатчилар томонидан ўтказилади.",
+        "Маданий йўналтириш бизнинг тайёргарлигимизнинг асосий қисмидир. Биз манзил мамлакатингизнинг ижтимоий нормалари, мулоқот услублари ва кундалик урф-одатларини ёритамиз, шу билан сиз нимани кутиш кераклигини ва янги вазиятларда қандай қулай ҳаракат қилишни биласиз. Дарс хонасидаги одобдан ва профессор-талаба муносабатларини тушунишдан тортиб, банк хизматлари, транспорт ва тиббий хизмат каби кундалик ишларни бошқаришгача — биз ҳеч нарса сизни кутилмаганда тутиб қолмаслигига ишонч ҳосил қиламиз.",
+        "Академик тайёргарлик ва амалий ҳаётий кўникмалар дастурни тўлдиради. Биз талабаларга янги академик муҳитнинг кутганларини тушунишга ёрдам берамиз — жумладан, баҳолаш тизимлари, тадқиқот стандартлари ва вақтни бошқариш усуллари — ва бюджет режалаштириш, овқат пиширишнинг асослари, турар жойни созлаш ва уйда қолган оила билан алоқада бўлиш каби муҳим мавзуларни қамраб оламиз. Бизнинг мақсадимиз — сизнинг фақат академик жиҳатдан эмас, балки янги муҳитингизда чиндан ҳам ривожланишга тайёр эканлигингизга ишонч ҳосил қилиш."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Маданий йўналтириш:",
+          "text": "Биз сизни манзил мамлакатингизнинг ижтимоий нормалари, урф-одатлари ва кундалик кутишлари билан таништирамиз, шу билан сиз тезда мослаша оласиз ва кенг тарқалган тушунмовчиликлардан қоча оласиз."
+        },
+        {
+          "title": "Академик тайёргарлик:",
+          "text": "Биз янги университетингизнинг академик тизими қандай ишлашини тушунтирамиз — баҳолаш шкалалари, дарсда иштирок этиш нормалари, тадқиқот кутишлари — шу билан сиз бошидан бошлаб энг яхши натижа кўрсата оласиз."
+        },
+        {
+          "title": "Ҳаётий кўникмалар тайёргарлиги:",
+          "text": "Биз чет элда мустақил яшашнинг амалий асосларини қамраб оламиз — бюджет режалаштириш, овқат пиширишнинг, турар жой топиш, жамоат транспортидан фойдаланиш ва тиббий хизматга мурожаат қилиш — шу билан сиз тезроқ ўзингизни уйда ҳис қиласиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Предвыездная подготовка - Grant Consulting",
+      "description": "Подготовьтесь к жизни за рубежом с программой предвыездной подготовки Grant Consulting — культурная ориентация, академическая подготовка и необходимые жизненные навыки для иностранных студентов.",
+      "heroTitle": "Предвыездная подготовка",
+      "sidebarLabel": "Предвыездная подготовка",
+      "breadcrumbLabel": "Предвыездная подготовка",
+      "paragraphs": [
+        "Поступление в зарубежный университет — это большое достижение, но переход в новую страну, культуру и академическую систему несёт свои вызовы. Программа предвыездной подготовки Grant Consulting готовит студентов ко всем аспектам жизни за рубежом, чтобы они прибыли уверенными, информированными и готовыми к успеху с первого дня. Наши занятия проводятся консультантами, имеющими личный опыт жизни и учёбы в странах, куда направляются наши студенты.",
+        "Культурная ориентация — ключевая часть нашей подготовки. Мы рассказываем о социальных нормах, стилях общения и повседневных обычаях вашей страны назначения, чтобы вы знали, чего ожидать и как уверенно действовать в новых ситуациях. От понимания этикета в аудитории и отношений между преподавателями и студентами до управления повседневными делами, такими как банковские операции, транспорт и медицинское обслуживание — мы позаботимся о том, чтобы ничто не застало вас врасплох.",
+        "Академическая подготовка и практические жизненные навыки завершают программу. Мы помогаем студентам понять требования новой академической среды — включая системы оценивания, стандарты исследований и методы управления временем — и охватываем такие важные темы, как составление бюджета, основы кулинарии, обустройство жилья и поддержание связи с семьёй на родине. Наша цель — убедиться, что вы не просто академически подготовлены, но по-настоящему готовы преуспеть в новом окружении."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Культурная ориентация:",
+          "text": "Мы знакомим вас с социальными нормами, обычаями и повседневными ожиданиями вашей страны назначения, чтобы вы могли быстро адаптироваться и избежать распространённых недоразумений."
+        },
+        {
+          "title": "Академическая подготовка:",
+          "text": "Мы объясняем, как устроена академическая система вашего нового университета — шкалы оценивания, нормы участия в занятиях, требования к исследованиям — чтобы вы могли показать лучшие результаты с самого начала."
+        },
+        {
+          "title": "Обучение жизненным навыкам:",
+          "text": "Мы охватываем практические основы самостоятельной жизни за рубежом — составление бюджета, кулинария, поиск жилья, пользование общественным транспортом и доступ к медицинским услугам — чтобы вы быстрее почувствовали себя как дома."
+        }
+      ]
+    }
+  },
+  {
+    "id": "daily-reports",
+    "slug": "service-daily-reports",
+    "cssFile": "css/service-daily-reports.css",
+    "formPrefix": "dr",
+    "en": {
+      "title": "Application Tracking - Grant Consulting",
+      "description": "Stay informed with Grant Consulting's application tracking service — status updates, deadline management, and university follow-up for study abroad applicants.",
+      "heroTitle": "Application Tracking",
+      "sidebarLabel": "Application Tracking",
+      "breadcrumbLabel": "Application Tracking",
+      "paragraphs": [
+        "Once your university applications have been submitted, the waiting period can be filled with uncertainty. Grant Consulting takes the guesswork out of this stage by actively monitoring the status of every application you have submitted. We keep you informed with regular updates so you always know exactly where things stand — whether an application is under review, requires additional documents, or has received a decision.",
+        "Managing deadlines across multiple universities and countries is a challenge that catches many students off guard. Our team maintains a comprehensive tracking system that monitors not just application deadlines but also scholarship submission dates, enrollment confirmation windows, housing deposit due dates, and visa appointment timelines. We send proactive reminders well in advance so you never miss a critical date.",
+        "When universities need additional information or documents, we handle the follow-up communication on your behalf. Whether it is responding to an admissions office inquiry, submitting updated test scores, or requesting a status update on a delayed decision, our team acts as your point of contact to keep the process moving forward. This hands-on approach saves you time and ensures that no request goes unanswered."
+      ],
+      "whyTitle": "Why this service is important?",
+      "benefits": [
+        {
+          "title": "Status updates:",
+          "text": "We monitor your applications in real time and provide regular reports on each university's review progress, so you are never left wondering what is happening."
+        },
+        {
+          "title": "Deadline management:",
+          "text": "We track every important date — application deadlines, enrollment windows, deposit due dates, and more — and send you reminders well before each one arrives."
+        },
+        {
+          "title": "University follow-up:",
+          "text": "We communicate directly with university admissions offices on your behalf to resolve questions, submit additional documents, and keep your application moving forward."
+        }
+      ]
+    },
+    "uz": {
+      "title": "Arizalarni kuzatish - Grant Consulting",
+      "description": "Grant Consulting'ning arizalarni kuzatish xizmati bilan xabardor bo'ling — holat yangilanishlari, muddat boshqaruvi va chet elda o'qish uchun ariza beruvchilar uchun universitet bilan aloqa.",
+      "heroTitle": "Arizalarni kuzatish",
+      "sidebarLabel": "Arizalarni kuzatish",
+      "breadcrumbLabel": "Arizalarni kuzatish",
+      "paragraphs": [
+        "Universitet arizalaringiz topshirilgandan so'ng, kutish davri noaniqlik bilan to'lishi mumkin. Grant Consulting siz topshirgan har bir arizaning holatini faol kuzatib, bu bosqichdagi noaniqlikni bartaraf etadi. Biz sizni muntazam yangilanishlar bilan xabardor qilib turamiz, shu bilan siz har doim ishlarning aniq qayerda turganini bilasiz — ariza ko'rib chiqilayotganmi, qo'shimcha hujjatlar talab qilinadimi yoki qaror qabul qilinganmi.",
+        "Bir nechta universitetlar va mamlakatlar bo'yicha muddatlarni boshqarish ko'plab talabalarni kutilmaganda tutib qoladigan qiyinchilikdir. Bizning jamoamiz nafaqat ariza topshirish muddatlarini, balki stipendiya topshirish sanalari, ro'yxatga olishni tasdiqlash oynalari, turar joy depoziti to'lash muddatlari va viza uchrashuvi vaqt jadvallarini ham kuzatuvchi keng qamrovli kuzatuv tizimini yuritadi. Biz muhim sanani hech qachon o'tkazib yubormasligingiz uchun oldindan eslatmalar yuboramiz.",
+        "Universitetlar qo'shimcha ma'lumot yoki hujjatlar talab qilganda, biz sizning nomingizdan keyingi aloqani boshqaramiz. Qabul bo'limi so'roviga javob berish, yangilangan test natijalarini topshirish yoki kechikkan qaror bo'yicha holat yangilanishini so'rash bo'ladimi — bizning jamoamiz jarayonni oldinga surish uchun sizning aloqa nuqtangiz sifatida harakat qiladi. Ushbu amaliy yondashuv sizning vaqtingizni tejaydi va hech bir so'rov javobsiz qolmasligini ta'minlaydi."
+      ],
+      "whyTitle": "Nima uchun bu xizmat muhim?",
+      "benefits": [
+        {
+          "title": "Holat yangilanishlari:",
+          "text": "Biz arizalaringizni real vaqt rejimida kuzatamiz va har bir universitetning ko'rib chiqish jarayoni bo'yicha muntazam hisobotlarni taqdim etamiz, shu bilan siz hech qachon nima bo'layotganini bilmasdan qolmaysiz."
+        },
+        {
+          "title": "Muddat boshqaruvi:",
+          "text": "Biz har bir muhim sanani kuzatamiz — ariza topshirish muddatlari, ro'yxatga olish oynalari, depozit to'lash muddatlari va boshqalar — va har biri kelishidan ancha oldin sizga eslatmalar yuboramiz."
+        },
+        {
+          "title": "Universitet bilan aloqa:",
+          "text": "Biz savollarni hal qilish, qo'shimcha hujjatlarni topshirish va arizangizni oldinga surish uchun sizning nomingizdan universitet qabul bo'limlari bilan bevosita aloqa qilamiz."
+        }
+      ]
+    },
+    "uzcyrl": {
+      "title": "Аризаларни кузатиш - Grant Consulting",
+      "description": "Grant Consulting'нинг аризаларни кузатиш хизмати билан хабардор бўлинг — ҳолат янгиланишлари, муддат бошқаруви ва чет элда ўқиш учун ариза берувчилар учун университет билан алоқа.",
+      "heroTitle": "Аризаларни кузатиш",
+      "sidebarLabel": "Аризаларни кузатиш",
+      "breadcrumbLabel": "Аризаларни кузатиш",
+      "paragraphs": [
+        "Университет аризаларингиз топширилгандан сўнг, кутиш даври ноаниқлик билан тўлиши мумкин. Grant Consulting сиз топширган ҳар бир аризанинг ҳолатини фаол кузатиб, бу босқичдаги ноаниқликни бартараф этади. Биз сизни мунтазам янгиланишлар билан хабардор қилиб турамиз, шу билан сиз ҳар доим ишларнинг аниқ қаерда турганини биласиз — ариза кўриб чиқилаётганми, қўшимча ҳужжатлар талаб қилинадими ёки қарор қабул қилинганми.",
+        "Бир нечта университетлар ва мамлакатлар бўйича муддатларни бошқариш кўплаб талабаларни кутилмаганда тутиб қоладиган қийинчиликдир. Бизнинг жамоамиз нафақат ариза топшириш муддатларини, балки стипендия топшириш саналари, рўйхатга олишни тасдиқлаш ойналари, турар жой депозити тўлаш муддатлари ва виза учрашуви вақт жадвалларини ҳам кузатувчи кенг қамровли кузатув тизимини юритади. Биз муҳим санани ҳеч қачон ўтказиб юбормаслигингиз учун олдиндан эслатмалар юборамиз.",
+        "Университетлар қўшимча маълумот ёки ҳужжатлар талаб қилганда, биз сизнинг номингиздан кейинги алоқани бошқарамиз. Қабул бўлими сўровига жавоб бериш, янгиланган тест натижаларини топшириш ёки кечиккан қарор бўйича ҳолат янгиланишини сўраш бўладими — бизнинг жамоамиз жараённи олдинга суриш учун сизнинг алоқа нуқтангиз сифатида ҳаракат қилади. Ушбу амалий ёндашув сизнинг вақтингизни тежайди ва ҳеч бир сўров жавобсиз қолмаслигини таъминлайди."
+      ],
+      "whyTitle": "Нима учун бу хизмат муҳим?",
+      "benefits": [
+        {
+          "title": "Ҳолат янгиланишлари:",
+          "text": "Биз аризаларингизни реал вақт режимида кузатамиз ва ҳар бир университетнинг кўриб чиқиш жараёни бўйича мунтазам ҳисоботларни тақдим этамиз, шу билан сиз ҳеч қачон нима бўлаётганини билмасдан қолмайсиз."
+        },
+        {
+          "title": "Муддат бошқаруви:",
+          "text": "Биз ҳар бир муҳим санани кузатамиз — ариза топшириш муддатлари, рўйхатга олиш ойналари, депозит тўлаш муддатлари ва бошқалар — ва ҳар бири келишидан анча олдин сизга эслатмалар юборамиз."
+        },
+        {
+          "title": "Университет билан алоқа:",
+          "text": "Биз саволларни ҳал қилиш, қўшимча ҳужжатларни топшириш ва аризангизни олдинга суриш учун сизнинг номингиздан университет қабул бўлимлари билан бевосита алоқа қиламиз."
+        }
+      ]
+    },
+    "ru": {
+      "title": "Отслеживание заявок - Grant Consulting",
+      "description": "Будьте в курсе с услугой отслеживания заявок от Grant Consulting — обновления статуса, управление сроками и взаимодействие с университетами для абитуриентов, поступающих за рубеж.",
+      "heroTitle": "Отслеживание заявок",
+      "sidebarLabel": "Отслеживание заявок",
+      "breadcrumbLabel": "Отслеживание заявок",
+      "paragraphs": [
+        "После подачи заявок в университеты период ожидания может быть наполнен неопределённостью. Grant Consulting устраняет неизвестность на этом этапе, активно отслеживая статус каждой поданной вами заявки. Мы информируем вас регулярными обновлениями, чтобы вы всегда точно знали, как обстоят дела — находится ли заявка на рассмотрении, требует ли дополнительных документов или уже получила решение.",
+        "Управление сроками при подаче заявок в несколько университетов и стран — это задача, которая застаёт многих студентов врасплох. Наша команда ведёт комплексную систему отслеживания, которая контролирует не только сроки подачи заявок, но и даты подачи на стипендии, окна подтверждения зачисления, сроки внесения жилищных депозитов и расписания визовых встреч. Мы отправляем проактивные напоминания заблаговременно, чтобы вы никогда не пропустили важную дату.",
+        "Когда университетам требуется дополнительная информация или документы, мы берём на себя дальнейшую коммуникацию от вашего имени. Будь то ответ на запрос приёмной комиссии, предоставление обновлённых результатов тестов или запрос обновления статуса по задержанному решению — наша команда выступает вашим контактным лицом, чтобы процесс продвигался вперёд. Такой практический подход экономит ваше время и гарантирует, что ни один запрос не останется без ответа."
+      ],
+      "whyTitle": "Почему эта услуга важна?",
+      "benefits": [
+        {
+          "title": "Обновления статуса:",
+          "text": "Мы отслеживаем ваши заявки в режиме реального времени и предоставляем регулярные отчёты о ходе рассмотрения в каждом университете, чтобы вы никогда не оставались в неведении о происходящем."
+        },
+        {
+          "title": "Управление сроками:",
+          "text": "Мы отслеживаем каждую важную дату — сроки подачи заявок, окна зачисления, даты внесения депозитов и многое другое — и отправляем вам напоминания задолго до наступления каждого из них."
+        },
+        {
+          "title": "Взаимодействие с университетами:",
+          "text": "Мы напрямую общаемся с приёмными комиссиями университетов от вашего имени для решения вопросов, предоставления дополнительных документов и продвижения вашей заявки вперёд."
+        }
+      ]
+    }
+  }
+]

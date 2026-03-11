@@ -1,0 +1,42 @@
+{% set svc = serviceDetails[serviceIdx] %}
+{% set d = svc[L] %}
+    <div class="main-wrap">
+      <aside class="sidebar">
+        <h2 class="sidebar-title">{{ t.nav_services }}</h2>
+        <ul class="sidebar-nav">
+          {%- for s in serviceDetails %}
+          <li><a href="/{{ L }}/{{ s.slug }}.html"{% if s.id == svc.id %} class="active"{% endif %}>{{ s[L].sidebarLabel }}</a></li>
+          {%- endfor %}
+        </ul>
+      </aside>
+
+      <div class="content-area">
+        <div class="content-image"></div>
+
+        <div class="content-body">
+          {%- for p in d.paragraphs %}
+          <p>{{ p }}</p>
+          {%- endfor %}
+        </div>
+
+        <section class="content-section">
+          <h2>{{ d.whyTitle }}</h2>
+          <ul class="benefit-list">
+            {%- for b in d.benefits %}
+            <li>
+              <span class="icon" aria-hidden="true"></span>
+              <div class="text">
+                <h3>{{ b.title }}</h3>
+                <p>{{ b.text }}</p>
+              </div>
+            </li>
+            {%- endfor %}
+          </ul>
+        </section>
+      </div>
+    </div>
+
+    {% set formPrefix = svc.formPrefix %}
+    {% include "partials/form-faq-section.njk" %}
+
+    {% include "partials/cta-simple.njk" %}

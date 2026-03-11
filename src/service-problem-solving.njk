@@ -1,0 +1,25 @@
+---js
+{
+  pagination: { data: "languages", size: 1, alias: "lang" },
+  permalink: function(data) { return data.lang.code + "/service-problem-solving.html"; },
+  layout: "layouts/page.njk",
+  pageCss: "css/service-problem-solving.css",
+  navKey: "Services",
+  extraFonts: "&family=Merriweather:wght@700",
+  currentPage: "service-problem-solving.html",
+  serviceIdx: 3,
+  eleventyComputed: {
+    title: function(data) { var L = data.lang.code; return (data.serviceDetails[3][L] || data.serviceDetails[3].en).title; },
+    description: function(data) { var L = data.lang.code; return (data.serviceDetails[3][L] || data.serviceDetails[3].en).description; },
+    heroTitle: function(data) { var L = data.lang.code; return (data.serviceDetails[3][L] || data.serviceDetails[3].en).heroTitle; },
+    breadcrumbs: function(data) {
+      var L = data.lang.code;
+      return [
+        { label: (data.ui[L]||data.ui.en).page_services_hero, url: "services.html" },
+        { label: (data.serviceDetails[3][L] || data.serviceDetails[3].en).breadcrumbLabel }
+      ];
+    }
+  }
+}
+---
+{% include "partials/service-detail-content.njk" %}
