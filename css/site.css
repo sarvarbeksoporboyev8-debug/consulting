@@ -539,12 +539,18 @@ header,
   align-items: stretch;
 }
 
+.services-grid:last-child {
+  margin-bottom: 0;
+}
+
 .service-card {
   background: var(--card-dark);
   border-radius: var(--radius-lg);
   padding: 32px 28px;
   color: var(--white);
   height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .service-card h3 {
@@ -558,6 +564,7 @@ header,
   color: rgba(255, 255, 255, 0.7);
   line-height: 1.5;
   margin-bottom: 20px;
+  flex: 1;
 }
 
 .service-card .link,
@@ -566,6 +573,7 @@ header,
   font-weight: 600;
   color: var(--yellow);
   text-decoration: none;
+  margin-top: auto;
 }
 
 .service-card .btn-link:hover {
@@ -576,6 +584,7 @@ header,
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 24px;
+  margin-bottom: 24px;
 }
 
 .service-card-cta {

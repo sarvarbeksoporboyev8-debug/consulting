@@ -1,0 +1,37 @@
+{% set post = blogPosts[postIdx] %}
+{% set d = post[L] %}
+    <div class="main-wrap">
+      {% include "partials/blog-sidebar.njk" %}
+
+      <div class="post-main">
+        <article class="post-content">
+          <div class="post-featured"></div>
+          <div class="post-body">
+            <div class="post-meta">
+              <span>{{ d.author }}</span>
+              <span>{{ d.date }}</span>
+            </div>
+            <h2>{{ d.title }}</h2>
+            <p class="lead">{{ d.excerpt }}</p>
+            {%- for section in d.sections %}
+            <h2>{{ section.heading }}</h2>
+            {%- for p in section.content %}
+            <p>{{ p }}</p>
+            {%- endfor %}
+            {%- endfor %}
+            <div class="share-row">
+              <span>Share:</span>
+              <div class="share-icons">
+                <a href="{{ site.shared.instagram }}" aria-label="Instagram">IG</a>
+                <a href="{{ site.shared.telegram }}" aria-label="Telegram">TG</a>
+              </div>
+            </div>
+            <nav class="post-nav" aria-label="Post navigation">
+              <div class="prev">
+                <a href="/{{ L }}/blog.html">{{ t.nav_blog }}</a>
+              </div>
+            </nav>
+          </div>
+        </article>
+      </div>
+    </div>
