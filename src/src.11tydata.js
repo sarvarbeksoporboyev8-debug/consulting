@@ -1,5 +1,9 @@
 module.exports = {
   eleventyComputed: {
-    permalink: (data) => `${data.page.filePathStem}.html`
+    permalink: (data) => {
+      // If the page already sets its own permalink, respect it
+      if (data.permalink) return data.permalink;
+      return `${data.page.filePathStem}.html`;
+    }
   }
 };

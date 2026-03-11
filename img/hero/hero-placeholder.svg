@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#065f56"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <!-- Graduation cap icon -->
+  <g transform="translate(400, 220)">
+    <!-- Cap base (diamond/rhombus) -->
+    <polygon points="0,-40 100,0 0,20 -100,0" fill="#a3e635"/>
+    <!-- Tassel line -->
+    <line x1="0" y1="-40" x2="0" y2="30" stroke="#a3e635" stroke-width="3"/>
+    <!-- Tassel end -->
+    <circle cx="0" cy="34" r="5" fill="#a3e635"/>
+    <!-- Mortarboard top -->
+    <rect x="-50" y="-8" width="100" height="6" rx="2" fill="#a3e635" opacity="0.6"/>
+  </g>
+  <!-- Text: GRANT CONSULTING -->
+  <text x="400" y="340" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">GRANT</text>
+  <text x="400" y="395" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#a3e635" text-anchor="middle" letter-spacing="6">CONSULTING</text>
+  <!-- Decorative line -->
+  <line x1="300" y1="420" x2="500" y2="420" stroke="#a3e635" stroke-width="2" opacity="0.5"/>
+</svg>

@@ -3,36 +3,36 @@
     "id": "free-consultation",
     "title": "Free Consultation",
     "description": "Get a free initial consultation to discuss your study abroad goals, eligibility, and the best university options for you.",
-    "link": "contact.html#contact-form"
+    "link": "service-business-consulting.html"
   },
   {
     "id": "university-grants",
-    "title": "University Grants",
+    "title": "Scholarships & Grants",
     "description": "We help you secure grants and scholarships from TOP universities worldwide, covering application strategy and documentation.",
-    "link": "services.html#university-grants"
+    "link": "service-marketing-strategy.html"
   },
   {
     "id": "document-preparation",
     "title": "Document Preparation",
     "description": "We handle document submission to up to 3 universities, including recommendation letters, essays, and all required paperwork.",
-    "link": "services.html#document-preparation"
+    "link": "service-audit-evaluation.html"
   },
   {
     "id": "visa-services",
-    "title": "Visa Services",
+    "title": "Visa Support",
     "description": "Complete visa application support - from document gathering to interview preparation and submission.",
-    "link": "services.html#visa-services"
+    "link": "service-problem-solving.html"
+  },
+  {
+    "id": "ielts-preparation",
+    "title": "IELTS Preparation",
+    "description": "IELTS preparation courses and language training to meet university admission requirements, with score improvement strategies.",
+    "link": "service-digital-marketing.html"
   },
   {
     "id": "pre-departure-training",
     "title": "Pre-Departure Training",
     "description": "Free training sessions from specialists who have lived abroad, covering culture, academics, and practical life tips.",
-    "link": "services.html#pre-departure-training"
-  },
-  {
-    "id": "language-courses",
-    "title": "Language Courses",
-    "description": "IELTS preparation courses and language training to meet university admission requirements, with work opportunity guidance.",
-    "link": "services.html#language-courses"
+    "link": "service-seo-ranking.html"
   }
 ]
